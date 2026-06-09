@@ -1,0 +1,4 @@
+[
+  {"id": "p1", "question": "What is the SI unit of Force?", "options": ["Joule", "Newton", "Pascal", "Watt"], "answer": "Newton", "subject": "physics"},
+  {"id": "p2", "question": "What is the speed of light in a vacuum?", "options": ["3 x 10^8 m/s", "3 x 10^5 m/s", "3 x 10^10 m/s", "3 x 10^6 m/s"], "answer": "3 x 10^8 m/s", "subject": "physics"}
+]

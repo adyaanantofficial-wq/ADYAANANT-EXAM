@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Running - ADYAANANT</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/exam.css">
+</head>
+<body>
+    <div class="exam-header">
+        <h2>🔱 ADYAANANT EXAM 🔱</h2>
+        <div id="timer-display" class="timer">00:00</div>
+    </div>
+    <div class="exam-container">
+        <div class="question-area card">
+            <h3 id="q-num"></h3>
+            <p id="q-text" class="q-text"></p>
+            <div id="options" class="options-grid"></div>
+            <div class="controls">
+                <button id="prev-btn" class="btn">Previous</button>
+                <button id="next-btn" class="btn primary">Next</button>
+                <button id="submit-btn" class="btn danger" style="display:none;">Submit Exam</button>
+            </div>
+        </div>
+        <div class="palette-area card">
+            <h3>Question Palette</h3>
+            <div id="palette" class="palette-grid"></div>
+        </div>
+    </div>
+    <script src="js/exam.js"></script>
+</body>
+</html>

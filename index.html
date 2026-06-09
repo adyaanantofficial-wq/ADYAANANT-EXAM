@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔱 ADYAANANT EXAM 🔱 - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="glass-container">
+        <h1>🔱 ADYAANANT EXAM 🔱</h1>
+        <p>Advanced Online Assessment Platform</p>
+        
+        <form id="setup-form" class="card">
+            <input type="text" id="name" placeholder="Candidate Name" required>
+            <input type="email" id="email" placeholder="Email Address" required>
+            
+            <select id="exam" required>
+                <option value="NEET">NEET</option>
+                <option value="JEE">JEE</option>
+            </select>
+            <p id="jee-warning" style="display:none; color:red; font-size:12px;">JEE Coming Soon.</p>
+
+            <select id="state" required><option value="">Select State</option></select>
+            
+            <select id="subject" required>
+                <option value="All">All Subjects</option>
+                <option value="Biology">Biology</option>
+                <option value="Physics">Physics</option>
+                <option value="Chemistry">Chemistry</option>
+            </select>
+
+            <input type="number" id="q-count" placeholder="Number of Questions (e.g. 10)" required min="1" max="100">
+            <input type="number" id="timer" placeholder="Exam Duration (Minutes)" required min="1">
+
+            <div class="btn-group">
+                <button type="submit" id="start-btn" class="btn primary">Start Exam</button>
+                <a href="leaderboard.html" class="btn secondary">View Leaderboard</a>
+            </div>
+        </form>
+    </div>
+    <script src="js/home.js"></script>
+</body>
+</html>

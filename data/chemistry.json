@@ -1,0 +1,4 @@
+[
+  {"id": "c1", "question": "What is the chemical symbol for Gold?", "options": ["Ag", "Au", "Pb", "Fe"], "answer": "Au", "subject": "chemistry"},
+  {"id": "c2", "question": "What is the pH of pure water?", "options": ["5", "7", "9", "14"], "answer": "7", "subject": "chemistry"}
+]

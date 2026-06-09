@@ -1,0 +1,5 @@
+[
+  {"id": "b1", "question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"], "answer": "Mitochondria", "subject": "biology"},
+  {"id": "b2", "question": "Which blood group is the universal donor?", "options": ["A", "B", "AB", "O-"], "answer": "O-", "subject": "biology"},
+  {"id": "b3", "question": "What is the largest organ in the human body?", "options": ["Heart", "Liver", "Skin", "Brain"], "answer": "Skin", "subject": "biology"}
+]
