@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Supabase
+.supabase/
+supabase/.branches/
+supabase/.temp/
+
+# Build & Runtime
+dist/
+build/
+*.log
+*.egg-info/

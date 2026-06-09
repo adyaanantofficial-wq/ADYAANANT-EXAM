@@ -1,5 +1,1206 @@
 [
-  {"id": "b1", "question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"], "answer": "Mitochondria", "subject": "biology"},
-  {"id": "b2", "question": "Which blood group is the universal donor?", "options": ["A", "B", "AB", "O-"], "answer": "O-", "subject": "biology"},
-  {"id": "b3", "question": "What is the largest organ in the human body?", "options": ["Heart", "Liver", "Skin", "Brain"], "answer": "Skin", "subject": "biology"}
+  {
+    "question": "The complex II of mitochondrial electron transport chain is also known as",
+    "options": [
+      "Cytochrome bc1",
+      "Succinate dehydrogenase",
+      "Cytochrome c oxidase",
+      "NADH dehydrogenase"
+    ],
+    "answer": "Succinate dehydrogenase",
+    "chapter": "Respiration in Plants",
+    "topic": "Electron Transport System",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Polymerase chain reaction (PCR) amplifies DNA following the equation.",
+    "options": [
+      "N^2",
+      "2^n",
+      "2n+1",
+      "2N^2"
+    ],
+    "answer": "2^n",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Polymerase Chain Reaction",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "What are the potential drawbacks in adoption of the IVF method? A. High fatality risk to mother B. Expensive instruments and reagents C. Husband/wife necessary for being donors D. Less adoption of orphans E. Not available in India F. Possibility that the early embryo does not survive",
+    "options": [
+      "B, D, F only.",
+      "A, C, D, F only",
+      "A, B, C, D only",
+      "A, B, C, E, F only"
+    ],
+    "answer": "B, D, F only.",
+    "chapter": "Reproductive Health",
+    "topic": "Infertility and ART",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "What is the name of the blood vessel that carries deoxygenated blood from the body to the heart in a frog?",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava"
+    ],
+    "answer": "Vena cava",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Anatomy of Frog",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which one of the following statements refers to Reductionist Biology?",
+    "options": [
+      "Physico-chemical approach to study and understand living organisms.",
+      "Physiological approach to study and understand, living organisms.",
+      "Chemical approach to study and understand living organisms.",
+      "Behavioural approach to study and understand living organisms."
+    ],
+    "answer": "Physico-chemical approach to study and understand living organisms.",
+    "chapter": "The Living World",
+    "topic": "What is Living",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: In the RNA world, RNA is considered the first genetic material evolved to carry out essential life processes. RNA acts as a genetic material and also as a catalyst for some important biochemical reactions in living systems. Being reactive, RNA is unstable. Statement II: DNA evolved from RNA and is a more stable genetic material. Its double helical strands being complementary, resist changes by evolving repairing mechanism.",
+    "options": [
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement II is correct"
+    ],
+    "answer": "Both statement I and statement II are correct",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "RNA World",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Epiphytes that are growing on a mango branch is an example of which of the following?",
+    "options": [
+      "Commensalism",
+      "Mutualism",
+      "Predation",
+      "Amensalism"
+    ],
+    "answer": "Commensalism",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Interactions",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "From the statements given below choose the correct option: A. The eukaryotic ribosomes are 80S and prokaryotic ribosomes are 70S. B. Each ribosome has two sub-units. C. The two sub-units of 80S ribosome are 60S and 40S while that of 70S are 50S and 30S. D. The two sub-units of 80S ribosome are 60S and 20S and that of 70S are 50S and 20S. E. The two sub-units of 80S are 60S and 30S and that of 70S are 50S and 30S",
+    "options": [
+      "A, B, C are true",
+      "A, B, D are true",
+      "A, B, E are true",
+      "B, D, E are true"
+    ],
+    "answer": "A, B, C are true",
+    "chapter": "Cell: The Unit of Life",
+    "topic": "Ribosomes",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which one of the following is an example of ex-situ conservation?",
+    "options": [
+      "National Park",
+      "Wildlife Sanctuary",
+      "Zoos and botanical gardens",
+      "Protected areas."
+    ],
+    "answer": "Zoos and botanical gardens",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Biodiversity Conservation",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: The primary source of energy in an ecosystem is solar energy. Statement II: The rate of production of organic matter during photosynthesis in an ecosystem is called net primary productivity (NPP).",
+    "options": [
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement II is correct"
+    ],
+    "answer": "Statement I is correct but statement II is incorrect",
+    "chapter": "Ecosystem",
+    "topic": "Productivity",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Emphysema, B. Angina Pectoris, C. Glomerulonephritis, D. Tetany. List-II: I. Rapid spasms in muscle due to low Ca++ in body fluid, II. Damaged alveolar walls and decreased respiratory surface, III. Acute chest pain when not enough oxygen is reaching to heart muscle, IV. Inflammation of glomeruli of kidney",
+    "options": [
+      "A-III, B-I, C-IV, D-II",
+      "A-III, B-I, C-II, D-IV",
+      "A-II, B-IV, C-III, D-I",
+      "A-II, B-III, C-IV, D-I"
+    ],
+    "answer": "A-II, B-III, C-IV, D-I",
+    "chapter": "Human Physiology",
+    "topic": "Disorders of Human Physiology",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statement: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Both wind and water pollinated flowers are not very colourful and do not produce nectar. Reason (R): The flowers produce enormous amount of pollen grains in wind and water pollinated flowers.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": "Both A and R are true but R is NOT the correct explanation of A.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "Agents of Pollination",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following is an example of non-distilled alcoholic beverage produced by yeast?",
+    "options": [
+      "Whisky",
+      "Brandy",
+      "Beer",
+      "Rum"
+    ],
+    "answer": "Beer",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Industrial Products",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: In a floral formula % stands for zygomorphic nature of the flower, and G stands for inferior ovary. Statement II: In a floral formula + stands for actinomorphic nature of the flower and G stands for superior ovary.",
+    "options": [
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement II is correct"
+    ],
+    "answer": "Statement I is incorrect but statement II is correct",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Semi-Technical Description of a Typical Flowering Plant",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Streptokinase produced by bacterium Streptococcus is used for",
+    "options": [
+      "Curd production",
+      "Ethanol production",
+      "Liver disease treatment",
+      "Removing clots from blood vessels"
+    ],
+    "answer": "Removing clots from blood vessels",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Bioactive Molecules",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which chromosome in the human genome has the highest number of genes?",
+    "options": [
+      "Chromosome X",
+      "Chromosome Y",
+      "Chromosome 1",
+      "Chromosome 10"
+    ],
+    "answer": "Chromosome 1",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Human Genome Project",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following statement is correct about location of the male frog copulatory pad?",
+    "options": [
+      "First and Second digit of fore limb",
+      "First digit of hind limb",
+      "Second digit of fore limb",
+      "First digit of the fore limb"
+    ],
+    "answer": "First digit of the fore limb",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Anatomy of Frog",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following phytohormones promotes nutrient mobilization which helps in the delay of leaf senescence in plants?",
+    "options": [
+      "Ethylene",
+      "Abscisic acid",
+      "Gibberellin",
+      "Cytokinin"
+    ],
+    "answer": "Cytokinin",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "While trying to find out the characteristic of a newly found animal, a researcher did the histology of adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelome of that animal?",
+    "options": [
+      "Acoelomate",
+      "Pseudocoelomate",
+      "Schizocoelomate",
+      "Spongocoelomate"
+    ],
+    "answer": "Pseudocoelomate",
+    "chapter": "Animal Kingdom",
+    "topic": "Basis of Classification",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Head, B. Middle piece, C. Acrosome, D. Tail. List-II: I. Enzymes, II. Sperm motility, III. Energy, IV. Genetic material",
+    "options": [
+      "A-IV, B-III, C-I, D-II",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-IV, C-II, D-I",
+      "A-III, B-II, C-I, D-IV"
+    ],
+    "answer": "A-IV, B-III, C-I, D-II",
+    "chapter": "Human Reproduction",
+    "topic": "Gametogenesis (Sperm Structure)",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are the stages in the life cycle of pteridophytes. Arrange the following stages in the correct sequence. A. Prothallus stage, B. Meiosis in spore mother cells, C. Fertilisation, D. Formation of archegonia and antheridia in gametophyte, E. Transfer of antherozoids to the archegonia in presence of water.",
+    "options": [
+      "B, A, D, E, C",
+      "B, A, E, C, D",
+      "D, E, C, A, B",
+      "E, D, C, B, A"
+    ],
+    "answer": "B, A, D, E, C",
+    "chapter": "Plant Kingdom",
+    "topic": "Pteridophytes",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Cardiac activities of the heart are regulated by: A. Nodal tissue, B. A special neural centre in the medulla oblongata, C. Adrenal medullary hormones, D. Adrenal cortical hormones",
+    "options": [
+      "A, B and C Only.",
+      "A, B, C and D",
+      "A, C and D Only",
+      "A, B and D Only"
+    ],
+    "answer": "A, B and C Only.",
+    "chapter": "Body Fluids and Circulation",
+    "topic": "Regulation of Cardiac Activity",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of following organisms cannot fix nitrogen? A. Azotobacter B. Oscillatoria C. Anabaena D. Volvox E. Nostoc",
+    "options": [
+      "A only",
+      "D only",
+      "B only",
+      "E only"
+    ],
+    "answer": "D only",
+    "chapter": "Biological Classification",
+    "topic": "Kingdom Monera & Plantae",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: Transfer RNAs and ribosomal RNA do not interact with mRNA. Statement II: RNA interference (RNAi) takes place in all eukaryotic organisms as a method of cellular defence.",
+    "options": [
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement II is correct"
+    ],
+    "answer": "Statement I is incorrect but statement II is correct",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Translation & RNA interference",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following genetically engineered organisms was used by Eli Lilly to prepare human insulin?",
+    "options": [
+      "Bacterium",
+      "Yeast",
+      "Virus",
+      "Phage"
+    ],
+    "answer": "Bacterium",
+    "chapter": "Biotechnology and its Applications",
+    "topic": "Genetically Engineered Insulin",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Name the class of enzyme that usually catalyze the following reaction: S-G + S# -> S + S#-G. Where, G -> a group other than hydrogen, S -> a substrate, S# -> another substrate",
+    "options": [
+      "Hydrolase",
+      "Lyase",
+      "Transferase",
+      "Ligase"
+    ],
+    "answer": "Transferase",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Find the statement that is NOT correct with regard to the structure of monocot stem.",
+    "options": [
+      "Hypodermis is parenchymatous.",
+      "Vascular bundles are scattered.",
+      "Vascular bundles are conjoint and closed.",
+      "Phloem parenchyma is absent."
+    ],
+    "answer": "Hypodermis is parenchymatous.",
+    "chapter": "Anatomy of Flowering Plants",
+    "topic": "Anatomy of Dicot and Monocot Plants",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "The correct sequence of events in the life cycle of bryophytes is A. Fusion of antherozoid with egg. B. Attachment of gametophyte to substratum. C. Reduction division to produce haploid spores. D. Formation of sporophyte. E. Release of antherozoids into water.",
+    "options": [
+      "D, E, A, C, B",
+      "B, E, A, C, D",
+      "B, E, A, D, C",
+      "D, E, A, B, C"
+    ],
+    "answer": "B, E, A, D, C",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "difficulty": "hard",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which are correct: A. Computed tomography and magnetic resonance imaging detect cancers of internal organs. B. Chemotherapeutics drugs are used to kill non-cancerous cells. C. a-interferon activate the cancer patients' immune system and helps in destroying the tumour. D. Chemotherapeutic drugs are biological response modifiers. E. In the case of leukaemia blood cells counts are decreased.",
+    "options": [
+      "B and D only",
+      "D and E only",
+      "C and D only",
+      "A and C only"
+    ],
+    "answer": "A and C only",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Centromere, B. Cilium, C. Cristae, D. Cell membrane. List-II: I. Mitochondrion, II. Cell division, III. Cell movement, IV. Phospholipid Bilayer",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-I, C-IV, D-III",
+      "A-IV, B-II, C-III, D-I",
+      "A-II, B-III, C-I, D-IV"
+    ],
+    "answer": "A-II, B-III, C-I, D-IV",
+    "chapter": "Cell: The Unit of Life",
+    "topic": "Cell Organelles",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Chlorophyll a, B. Chlorophyll b, C. Xanthophylls, D. Carotenoids. List-II: I. Yellow-green, II. Yellow, III. Blue-green, IV. Yellow to Yellow-orange",
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-III, B-I, C-II, D-IV",
+      "A-I, B-II, C-IV, D-III",
+      "A-I, B-IV, C-III, D-II"
+    ],
+    "answer": "A-III, B-I, C-II, D-IV",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "Photosynthetic Pigments",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Find the correct statements: A. In human pregnancy, the major organ systems are formed at the end of 12 weeks. B. In human pregnancy the major organ systems are formed at the end of 8 weeks. C. In human pregnancy heart is formed after one month of gestation. D. In human pregnancy, limbs and digits develop by the end of second month. E. In human pregnancy the appearance of hair usually observed in the fifth month.",
+    "options": [
+      "A and E Only",
+      "B and C Only",
+      "B, C, D and E Only",
+      "A, C, D and E Only"
+    ],
+    "answer": "A, C, D and E Only",
+    "chapter": "Human Reproduction",
+    "topic": "Pregnancy and Embryonic Development",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "In the seeds of cereals, the outer covering of endosperm separates the embryo by a protein-rich layer called:",
+    "options": [
+      "Coleoptile",
+      "Coleorhiza",
+      "Integument",
+      "Aleurone layer"
+    ],
+    "answer": "Aleurone layer",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "Seed Structure",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): A typical unfertilized, angiosperm embryo sac at maturity is 8 nucleate and 7-celled. Reason (R): The egg apparatus has 2 polar nuclei.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is NOT the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": "A is true but R is false.",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "Female Gametophyte",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "A specialized membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is:",
+    "options": [
+      "Mesosome",
+      "Chromatophores",
+      "Cristae",
+      "Endoplasmic Reticulum"
+    ],
+    "answer": "Mesosome",
+    "chapter": "Cell: The Unit of Life",
+    "topic": "Prokaryotic Cell",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following are the post-transcriptional events in an eukaryotic cell? A. Transport of pre-mRNA to cytoplasm prior to splicing. B. Removal of introns and joining of exons. C. Addition of methyl group at 5' end of hnRNA. D. Addition of adenine residues at 3' end of hnRNA. E. Base pairing of two complementary RNAs.",
+    "options": [
+      "A, B, C only",
+      "B, C, D only",
+      "B, C, E only",
+      "C, D, E only"
+    ],
+    "answer": "B, C, D only",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "What is the pattern of inheritance for polygenic trait?",
+    "options": [
+      "Mendelian inheritance pattern",
+      "Non-mendelian inheritance pattern",
+      "Autosomal dominant pattern",
+      "X-linked recessive inheritance pattern"
+    ],
+    "answer": "Non-mendelian inheritance pattern",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Polygenic Inheritance",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which one of the following enzymes contains 'Haem' as the prosthetic group?",
+    "options": [
+      "RuBisCo",
+      "Carbonic anhydrase",
+      "Succinate dehydrogenase",
+      "Catalase"
+    ],
+    "answer": "Catalase",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Each of the following characteristics represent a Kingdom proposed by Whittaker. Arrange the following in increasing order of complexity of body organization. A. Multicellular heterotrophs with cell wall made of chitin. B. Heterotrophs with tissue/organ/organ system level of body organization. C. Prokaryotes with cell wall made of polysaccharides and amino acids. D. Eukaryotic autotrophs with tissue/organ level of body organization. E. Eukaryotes with cellular body organization.",
+    "options": [
+      "A, C, E, B, D",
+      "C, E, A, D, B",
+      "A, C, E, D, B",
+      "C, E, A, B, D"
+    ],
+    "answer": "C, E, A, D, B",
+    "chapter": "Biological Classification",
+    "topic": "Five Kingdom Classification",
+    "difficulty": "hard",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Who is known as the father of Ecology in India?",
+    "options": [
+      "S. R. Kashyap",
+      "Ramdeo Misra",
+      "Ram Udar",
+      "Birbal Sahni"
+    ],
+    "answer": "Ramdeo Misra",
+    "chapter": "Organisms and Populations",
+    "topic": "Ecology",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Alfred Hershey and Martha Chase, B. Euchromatin, C. Frederick Griffith, D. Heterochromatin. List-II: I. DNA as genetic material confirmation, II. Streptococcus pneumoniae, III. Densely packed and dark-stained, IV. Loosely packed and light-stained",
+    "options": [
+      "A-II, B-IV, C-I, D-III",
+      "A-IV, B-II, C-I, D-III",
+      "A-I, B-IV, C-II, D-III",
+      "A-I, B-IV, C-II, D-III (Wait, Answer is A-I, B-IV, C-II, D-III)"
+    ],
+    "answer": "A-I, B-IV, C-II, D-III (Wait, Answer is A-I, B-IV, C-II, D-III)",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Search for Genetic Material",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Neoplastic characteristics of cells refers to: A. A mass of proliferating cell B. Rapid growth of cells C. Invasion and damage to the surrounding tissue D. Those confined to original location",
+    "options": [
+      "A, B only",
+      "A, B, C only",
+      "A, B, D only",
+      "B, C, D only"
+    ],
+    "answer": "A, B, C only",
+    "chapter": "Human Health and Disease",
+    "topic": "Cancer",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA. Statement II: Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel.",
+    "options": [
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement II is correct"
+    ],
+    "answer": "Both statement I and statement II are correct",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Gel Electrophoresis",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List I with List II. List I: A. Adenosine, B. Adenylic acid, C. Adenine, D. Alanine. List II: I. Nitrogen base, II. Nucleotide, III. Nucleoside, IV. Amino acid",
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-III, B-II, C-IV, D-I",
+      "A-III, B-II, C-I, D-IV",
+      "A-II, B-III, C-I, D-IV"
+    ],
+    "answer": "A-III, B-II, C-I, D-IV",
+    "chapter": "Biomolecules",
+    "topic": "Nucleic Acids",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Consider the following: A. The reductive division for the human female gametogenesis starts earlier than that of the male gametogenesis. B. The gap between the first meiotic division and the second meiotic division is much shorter for males compared to females. C. The first polar body is associated with the formation of the primary oocyte. D. Luteinizing Hormone (LH) surge leads to disintegration of the endometrium and onset of menstrual bleeding.",
+    "options": [
+      "A and B are true",
+      "A and C are true",
+      "B and D are true",
+      "B and C are true"
+    ],
+    "answer": "A and B are true",
+    "chapter": "Human Reproduction",
+    "topic": "Gametogenesis",
+    "difficulty": "hard",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "All living members of the class Cyclostomata are:",
+    "options": [
+      "Free living",
+      "Endoparasite",
+      "Symbiotic",
+      "Ectoparasite"
+    ],
+    "answer": "Ectoparasite",
+    "chapter": "Animal Kingdom",
+    "topic": "Class Cyclostomata",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): The primary function of the Golgi apparatus is to package the materials made by the endoplasmic reticulum and deliver it to intracellular targets and outside the cell. Reason (R): Vesicles containing materials made by the endoplasmic reticulum fuse with the cis face of the Golgi apparatus, and they are modified and released from the trans face of the Golgi apparatus.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "chapter": "Cell: The Unit of Life",
+    "topic": "Golgi Apparatus",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List I with List II. List I: A. Scutellum, B. Non-albuminous seed, C. Epiblast, D. Perisperm. List II: I. Persistent nucellus, II. Cotyledon of monocot seed, III. Groundnut, IV. Rudimentary cotyledon",
+    "options": [
+      "A-II, B-III, C-IV, D-I",
+      "A-IV, B-III, C-II, D-I",
+      "A-IV, B-III, C-I, D-II",
+      "A-II, B-IV, C-III, D-I"
+    ],
+    "answer": "A-II, B-III, C-IV, D-I",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "Seeds",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): All vertebrates are chordates but all chordates are not vertebrate. Reason (R): The members of subphylum vertebrata possess notochord, during the embryonic period, the notochord is replaced by a cartilaginous or bony vertebral column in adults.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "chapter": "Animal Kingdom",
+    "topic": "Phylum Chordata",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Identify the statement that is NOT correct.",
+    "options": [
+      "Each antibody has two light and two heavy chains.",
+      "The heavy and light chains are held together by disulfide bonds.",
+      "Antigen binding site is located at C-terminal region of antibody molecules.",
+      "Constant region of heavy and light chains are located at C-terminus of antibody molecules."
+    ],
+    "answer": "Antigen binding site is located at C-terminal region of antibody molecules.",
+    "chapter": "Human Health and Disease",
+    "topic": "Immune System",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Silencing of specific mRNA is possible via RNAi because of -",
+    "options": [
+      "Complementary dsRNA",
+      "Inhibitory ssRNA",
+      "Complementary tRNA",
+      "Non-complementary ssRNA"
+    ],
+    "answer": "Complementary dsRNA",
+    "chapter": "Biotechnology and its Applications",
+    "topic": "RNA Interference",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Genes R and Y follow independent assortment. If RRYY produce round yellow seeds and rryy produce wrinkled green seeds, what will be the phenotypic ratio of the F2 generation?",
+    "options": [
+      "Phenotypic ratio - 1:2:1",
+      "Phenotypic ratio - 3:1",
+      "Phenotypic ratio-9:3:3:1",
+      "Phenotypic ratio - 9:7"
+    ],
+    "answer": "Phenotypic ratio-9:3:3:1",
+    "chapter": "Principles of Inheritance and Variation",
+    "topic": "Dihybrid Cross",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Histones are enriched with -",
+    "options": [
+      "Lysine & Arginine",
+      "Leucine & Lysine",
+      "Phenylalanine & Leucine",
+      "Phenylalanine & Arginine"
+    ],
+    "answer": "Lysine & Arginine",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Packaging of DNA Helix",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "The first menstruation is called:",
+    "options": [
+      "Menopause",
+      "Menarche",
+      "Diapause",
+      "Ovulation"
+    ],
+    "answer": "Menarche",
+    "chapter": "Human Reproduction",
+    "topic": "Menstrual Cycle",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List - I with List - II. List - I: A. Heart, B. Kidney, C. Gastro-intestinal tracts, D. Adrenal Cortex. List - II: I. Erythropoietin, II. Aldosterone, III. Atrial natriuretic factor, IV. Secretin",
+    "options": [
+      "A-II, B-I, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-III, C-IV, D-II",
+      "A-III, B-I, C-IV, D-II"
+    ],
+    "answer": "A-III, B-I, C-IV, D-II",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Hormones of Heart, Kidney and Gastrointestinal Tract",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "The protein portion of an enzyme is called:",
+    "options": [
+      "Cofactor",
+      "Coenzyme",
+      "Apoenzyme",
+      "Prosthetic group"
+    ],
+    "answer": "Apoenzyme",
+    "chapter": "Biomolecules",
+    "topic": "Enzymes",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following is the unit of productivity of an Ecosystem?",
+    "options": [
+      "g m^-2",
+      "KCal m^-2",
+      "KCal m^-3",
+      "(KCal m^-2)yr^-1"
+    ],
+    "answer": "(KCal m^-2)yr^-1",
+    "chapter": "Ecosystem",
+    "topic": "Productivity",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Sweet potato and potato represent a certain type of evolution. Select the correct combination of terms to explain the evolution.",
+    "options": [
+      "Analogy, convergent",
+      "Homology, divergent",
+      "Homology, convergent",
+      "Analogy, divergent"
+    ],
+    "answer": "Analogy, convergent",
+    "chapter": "Evolution",
+    "topic": "Evidences for Evolution",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Cells of the tapetum possess dense cytoplasm and generally have more than one nucleus. Reason (R): Presence of more than one nucleus in the tapetum increases the efficiency of nourishing the developing microspore mother cells.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "A is true but R is false",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "Microsporogenesis",
+    "difficulty": "hard",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "How many meiotic and mitotic divisions need to occur for the development of a mature female gametophyte from the megaspore mother cell in an angiosperm plant?",
+    "options": [
+      "2 Meiosis and 3 Mitosis",
+      "1 Meiosis and 2 Mitosis",
+      "1 Meiosis and 3 Mitosis",
+      "No Meiosis and 2 Mitosis"
+    ],
+    "answer": "1 Meiosis and 3 Mitosis",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "topic": "Megasporogenesis",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following is an example of a zygomorphic flower?",
+    "options": [
+      "Petunia",
+      "Datura",
+      "Pea",
+      "Chilli"
+    ],
+    "answer": "Pea",
+    "chapter": "Morphology of Flowering Plants",
+    "topic": "Flower",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "After maturation, in primary lymphoid organs, the lymphocytes migrate for interaction with antigens to secondary lymphoid organ(s)/tissue(s) like: A. thymus B. bone marrow C. spleen D. lymph nodes E. Peyer's patches",
+    "options": [
+      "B, C, D only",
+      "A, B, C only",
+      "E, A, B only",
+      "C, D, E only"
+    ],
+    "answer": "C, D, E only",
+    "chapter": "Human Health and Disease",
+    "topic": "Immune System in the Body",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it. Statement II: Fig wasp and fig tree exhibit mutual relationship as fig wasp completes its life cycle in fig fruit and fig fruit gets pollinated by fig wasp.",
+    "options": [
+      "Both statement I and statement II are correct",
+      "Both statement I and statement II are incorrect",
+      "Statement I is correct but statement II is incorrect",
+      "Statement I is incorrect but statement II is correct"
+    ],
+    "answer": "Both statement I and statement II are incorrect",
+    "chapter": "Organisms and Populations",
+    "topic": "Mutualism",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "What is the main function of the spindle fibers during mitosis?",
+    "options": [
+      "To separate the chromosomes",
+      "To synthesize new DNA",
+      "To repair damaged DNA",
+      "To regulate cell growth"
+    ],
+    "answer": "To separate the chromosomes",
+    "chapter": "Cell Cycle and Cell Division",
+    "topic": "Mitosis",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which one of the following is the characteristic feature of gymnosperms?",
+    "options": [
+      "Seeds are enclosed in fruits.",
+      "Seeds are naked.",
+      "Seeds are absent.",
+      "Gymnosperms have flowers for reproduction."
+    ],
+    "answer": "Seeds are naked.",
+    "chapter": "Plant Kingdom",
+    "topic": "Gymnosperms",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Consider the following statements regarding function of adrenal medullary hormones: A. It causes pupilary constriction B. It is a hyperglycemic hormone C. It causes piloerection D. It increases/strength of heart contraction",
+    "options": [
+      "C and D Only",
+      "B, C and D Only",
+      "A, C and D Only",
+      "D Only"
+    ],
+    "answer": "B, C and D Only",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Adrenal Gland",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Why can't insulin be given orally to diabetic patients?",
+    "options": [
+      "Human body will elicit strong immune response",
+      "It will be digested in Gastro-Intestinal (GI) tract",
+      "Because of structural variation",
+      "Its bioavailability will be increased"
+    ],
+    "answer": "It will be digested in Gastro-Intestinal (GI) tract",
+    "chapter": "Biotechnology and its Applications",
+    "topic": "Genetically Engineered Insulin",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Pteridophyte, B. Bryophyte, C. Angiosperm, D. Gymnosperm. List-II: I. Salvia, II. Ginkgo, III. Polytrichum, IV. Salvinia",
+    "options": [
+      "A-III, B-IV, C-II, D-I",
+      "A-IV, B-III, C-I, D-II",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-III, C-II, D-I"
+    ],
+    "answer": "A-IV, B-III, C-I, D-II",
+    "chapter": "Plant Kingdom",
+    "topic": "Classification of Plants",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Who proposed that the genetic code for amino acids should be made up of three nucleotides?",
+    "options": [
+      "George Gamow",
+      "Francis Crick",
+      "Jacque Monod",
+      "Franklin Stahl"
+    ],
+    "answer": "George Gamow",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Genetic Code",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. The Evil Quartet, B. Ex situ conservation, C. Lantana camara, D. Dodo. List-II: I. Cryopreservation, II. Alien species invasion, III. Causes of biodiversity losses, IV. Extinction",
+    "options": [
+      "A-I, B-II, C-I, D-IV",
+      "A-III, B-I, C-II, D-IV",
+      "A-III, B-IV, C-II, D-I",
+      "A-III, B-II, C-IV, D-I"
+    ],
+    "answer": "A-III, B-I, C-II, D-IV",
+    "chapter": "Biodiversity and Conservation",
+    "topic": "Loss of Biodiversity",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following hormones released from the posterior pituitary is actually synthesized in the hypothalamus?",
+    "options": [
+      "Luteinizing hormone (LH)",
+      "Anti-diuretic hormone (ADH)",
+      "Follicle-stimulating hormone (FSH)",
+      "Adenocorticotrophic hormone (ACTH)"
+    ],
+    "answer": "Anti-diuretic hormone (ADH)",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Pituitary Gland",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Role of the water vascular system in Echinoderms is: A. Respiration and Locomotion B. Excretion and Locomotion C. Capture and transport of food D. Digestion and Respiration E. Digestion and Excretion",
+    "options": [
+      "A and B Only",
+      "A and C Only",
+      "B and C Only",
+      "B, D and E Only"
+    ],
+    "answer": "A and C Only",
+    "chapter": "Animal Kingdom",
+    "topic": "Phylum Echinodermata",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following type of immunity is present at the time of birth and is a non-specific type of defence in the human body?",
+    "options": [
+      "Acquired Immunity",
+      "Innate Immunity",
+      "Cell-mediated Immunity",
+      "Humoral Immunity"
+    ],
+    "answer": "Innate Immunity",
+    "chapter": "Human Health and Disease",
+    "topic": "Immunity",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "In bryophytes, the gemmae help in which one of the following?",
+    "options": [
+      "Sexual reproduction",
+      "Asexual reproduction",
+      "Nutrient absorption",
+      "Gaseous exchange"
+    ],
+    "answer": "Asexual reproduction",
+    "chapter": "Plant Kingdom",
+    "topic": "Bryophytes",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "In frog, the Renal portal system is a special venous connection that acts to link :",
+    "options": [
+      "Liver and intestine",
+      "Liver and kidney",
+      "Kidney and intestine",
+      "Kidney and lower part of body"
+    ],
+    "answer": "Kidney and lower part of body",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Anatomy of Frog",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Given below are two statements: Statement I: In ecosystem, there is unidirectional flow of energy of sun from producers to consumers. Statement II: Ecosystems are exempted from 2nd law of thermodynamics.",
+    "options": [
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "answer": "Statement I is correct but Statement II is incorrect",
+    "chapter": "Ecosystem",
+    "topic": "Energy Flow",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following statements about RuBisCO is true?",
+    "options": [
+      "It is active only in the dark.",
+      "It has higher affinity for oxygen than carbon dioxide.",
+      "It is an enzyme involved in the photolysis of water.",
+      "It catalyzes the carboxylation of RuBP."
+    ],
+    "answer": "It catalyzes the carboxylation of RuBP.",
+    "chapter": "Photosynthesis in Higher Plants",
+    "topic": "C3 Cycle",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following enzyme(s) are NOT essential for gene cloning? A. Restriction enzymes B. DNA ligase C. DNA mutase D. DNA recombinase E. DNA polymerase",
+    "options": [
+      "C and D only",
+      "A and B only",
+      "D and E only",
+      "B and C only"
+    ],
+    "answer": "C and D only",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Tools of Recombinant DNA Technology",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Read the following statements on plant growth and development. A. Parthenocarpy can be induced by auxins. B. Plant growth regulators can be involved in promotion as well as inhibition of growth. C. Dedifferentiation is a pre-requisite for re-differentiation. D. Abscisic acid is a plant growth promoter. E. Apical dominance promotes the growth of lateral buds.",
+    "options": [
+      "A, B, C only",
+      "A, C, E only",
+      "A, D, E only",
+      "B, D, E only"
+    ],
+    "answer": "A, B, C only",
+    "chapter": "Plant Growth and Development",
+    "topic": "Plant Growth Regulators",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which factor is important for termination of transcription?",
+    "options": [
+      "a (alpha)",
+      "σ (sigma)",
+      "p (rho)",
+      "γ (gamma)"
+    ],
+    "answer": "p (rho)",
+    "chapter": "Molecular Basis of Inheritance",
+    "topic": "Transcription",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Frogs respire in water by skin and buccal cavity and on land by skin, buccal cavity and lungs. Choose the correct answer from the following:",
+    "options": [
+      "The statement is true for water but false for land",
+      "The statement is true for both the environment",
+      "The statement is false for water but true for land",
+      "The statement is false for both the environment"
+    ],
+    "answer": "The statement is false for water but true for land",
+    "chapter": "Structural Organisation in Animals",
+    "topic": "Anatomy of Frog",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Twins are born to a family that lives next door to you. The twins are a boy and a girl. Which of the following must be true?",
+    "options": [
+      "They are monozygotic twins.",
+      "They are fraternal twins.",
+      "They were conceived through in vitro fertilization.",
+      "They have 75% identical genetic content."
+    ],
+    "answer": "They are fraternal twins.",
+    "chapter": "Human Reproduction",
+    "topic": "Pregnancy and Embryonic Development",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which of the following microbes is NOT involved in the preparation of household products? A. Aspergillus niger B. Lactobacillus C. Trichoderma polysporum D. Saccharomyces cerevisiae E. Propionibacterium sharmanii",
+    "options": [
+      "A and B only",
+      "A and C only",
+      "C and D only",
+      "C and E only"
+    ],
+    "answer": "A and C only",
+    "chapter": "Microbes in Human Welfare",
+    "topic": "Microbes in Household Products",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Match List-I with List-II. List-I: A. Progesterone, B. Relaxin, C. Melanocyte stimulating hormone, D. Catecholamines. List-II: I. Pars intermedia, II. Ovary, III. Adrenal Medulla, IV. Corpus luteum",
+    "options": [
+      "A-IV, B-II, C-I, D-III",
+      "A-IV, B-II, C-III, D-I",
+      "A-II, B-IV, C-I, D-III",
+      "A-III, B-II, C-IV, D-I"
+    ],
+    "answer": "A-IV, B-II, C-I, D-III",
+    "chapter": "Chemical Coordination and Integration",
+    "topic": "Endocrine Glands",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "The blue and white selectable markers have been developed which differentiate recombinant colonies from non-recombinant colonies on the basis of their ability to produce colour in the presence of a chromogenic substrate. Given below are two statements about this method: Statement I: The blue coloured colonies have DNA insert in the plasmid and they are identified as recombinant colonies. Statement II: The colonies without blue colour have DNA insert in the plasmid and are identified as recombinant colonies.",
+    "options": [
+      "Both Statement I and Statement II are correct",
+      "Both Statement I and Statement II are incorrect",
+      "Statement I is correct but Statement II is incorrect",
+      "Statement I is incorrect but Statement II is correct"
+    ],
+    "answer": "Statement I is incorrect but Statement II is correct",
+    "chapter": "Biotechnology: Principles and Processes",
+    "topic": "Tools of Recombinant DNA Technology",
+    "difficulty": "medium",
+    "type": "PYQ NEET 2025"
+  },
+  {
+    "question": "Which one of the following equations represents the Verhulst-Pearl Logistic Growth of population?",
+    "options": [
+      "dN/dt = r((K-N)/K)",
+      "dN/dt = rN((K-N)/K)",
+      "dN/dt = rN((N-K)/N)",
+      "dN/dt = N((r-K)/K)"
+    ],
+    "answer": "dN/dt = rN((K-N)/K)",
+    "chapter": "Organisms and Populations",
+    "topic": "Population Growth",
+    "difficulty": "easy",
+    "type": "PYQ NEET 2025"
+  }
 ]
