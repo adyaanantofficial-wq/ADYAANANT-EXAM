@@ -1,5 +1,6 @@
 [
   {
+    "id": "pc001",
     "question": "The ratio of the wavelengths of the light absorbed by a Hydrogen atom when it undergoes $n=2\\rightarrow n=3$ and $n=4\\rightarrow n=6$ transitions, respectively, is",
     "options": [
       "$\\frac{1}{36}$",
@@ -8,12 +9,14 @@
       "$\\frac{1}{4}$"
     ],
     "answer": "$\\frac{1}{4}$",
+    "subject": "physical chemistry",
     "chapter": "Structure of Atom",
     "topic": "Hydrogen Spectrum",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic001",
     "question": "Which of the following statements are true? A. Unlike Ga that has a very high melting point, Cs has a very low melting point. B. On Pauling scale, the electronegativity values of N and Cl are not the same. C. Ar, $K^{+}$, Cl, $Ca^{2+}$ and $S^{2-}$ are all isoelectronic species. D. The correct order of the first ionization enthalpies of Na, Mg, Al, and Si is $Si>Al>Mg>Na$. E. The atomic radius of Cs is greater than that of Li and Rb. Choose the correct answer from the options given below:",
     "options": [
       "A, B and E only",
@@ -22,12 +25,14 @@
       "A, C and E only"
     ],
     "answer": "C and E only",
+    "subject": "inorganic chemistry",
     "chapter": "Classification of Elements and Periodicity",
     "topic": "Periodic Trends",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic002",
     "question": "Match List-I with List-II. List-I (Ion): A. $Co^{2+}$, B. $Mg^{2+}$, C. $Pb^{2+}$, D. $Al^{3+}$. List-II (Group Number in Cation Analysis): I. Group-I, II. Group-III, III. Group-IV, IV. Group-VI. Choose the correct answer from the options given below:",
     "options": [
       "A-III, B-IV, C-II, D-I",
@@ -36,12 +41,14 @@
       "A-III, B-II, C-I, D-IV"
     ],
     "answer": "A-III, B-IV, C-I, D-II",
+    "subject": "inorganic chemistry",
     "chapter": "Salt Analysis",
     "topic": "Cation Analysis",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc001",
     "question": "Predict the major product 'P' in the following sequence of reactions: $C_{6}H_{5}-CO-CH_{2}-CH=CH_{2}$ undergoes (i) HBr, benzoyl peroxide, (ii) KCN, (iii) $Na(Hg)/C_{2}H_{5}OH$ to form P (Major).",
     "options": [
       "$C_{6}H_{5}-C(OH)(CH_{3})-CH_{2}-CH_{2}-CH_{2}-NH_{2}$",
@@ -50,12 +57,14 @@
       "$C_{6}H_{5}-CO-CH_{2}-CH(CN)-CH_{3}$"
     ],
     "answer": "$C_{6}H_{5}-CO-CH_{2}-CH_{2}-CH_{2}-CH_{2}-NH_{2}$",
+    "subject": "organic chemistry",
     "chapter": "Amines",
     "topic": "Preparation of Amines",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc002",
     "question": "Energy and radius of first Bohr orbit of $He^{+}$ and $Li^{2+}$ are [Given $R_{H}=2.18\\times10^{-18}$ J, $a_{0}=52.9$ pm]",
     "options": [
       "$E_{n}(Li^{2+})=-19.62\\times10^{-18}$ J; $r_{n}(Li^{2+})=17.6$ pm, $E_{n}(He^{+})=-8.72\\times10^{-18}$ J; $r_{n}(He^{+})=26.4$ pm",
@@ -64,12 +73,14 @@
       "$E_{n}(Li^{2+})=-8.72\\times10^{-16}$ J; $r_{n}(Li^{2+})=17.6$ pm, $E_{n}(He^{2+})=-19.62\\times10^{-16}$ J; $r_{n}(He^{+})=17.6$ pm"
     ],
     "answer": "$E_{n}(Li^{2+})=-19.62\\times10^{-18}$ J; $r_{n}(Li^{2+})=17.6$ pm, $E_{n}(He^{+})=-8.72\\times10^{-18}$ J; $r_{n}(He^{+})=26.4$ pm",
+    "subject": "physical chemistry",
     "chapter": "Structure of Atom",
     "topic": "Bohr Model",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic003",
     "question": "Which of the following are paramagnetic? A. $[NiCl_{4}]^{2-}$ B. $Ni(CO)_{4}$ C. $[Ni(CN)_{4}]^{2-}$ D. $[Ni(H_{2}O)_{6}]^{2+}$ E. $Ni(PPh_{3})_{4}$",
     "options": [
       "A and C only",
@@ -78,12 +89,14 @@
       "A, D and E only"
     ],
     "answer": "A and D only",
+    "subject": "inorganic chemistry",
     "chapter": "Coordination Compounds",
     "topic": "Magnetic Properties",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic004",
     "question": "Given below are two statements: Statement I: Like nitrogen that can form ammonia, arsenic can form arsine. Statement II: Antimony cannot form antimony pentoxide. In the light of the above statements, choose the most appropriate answer from the options given below:",
     "options": [
       "Both Statement I and Statement II are correct.",
@@ -92,12 +105,14 @@
       "Statement I is incorrect but Statement II is correct."
     ],
     "answer": "Statement I is correct but Statement II is incorrect.",
+    "subject": "inorganic chemistry",
     "chapter": "p-Block Elements",
     "topic": "Group 15 Elements",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic005",
     "question": "Which among the following electronic configurations belong to main group elements? A. $[Ne]3s^{1}$ B. $[Ar]3d^{3}4s^{2}$ C. $[Kr]4d^{10}5s^{2}5p^{5}$ D. $[Ar]3d^{10}4s^{1}$ E. $[Rn]5f^{0}6d^{2}7s^{2}$",
     "options": [
       "B and E only",
@@ -106,12 +121,14 @@
       "A, C and D only"
     ],
     "answer": "A and C only",
+    "subject": "inorganic chemistry",
     "chapter": "Classification of Elements and Periodicity",
     "topic": "s and p block elements",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc003",
     "question": "Dalton's Atomic theory could not explain which of the following?",
     "options": [
       "Law of conservation of mass",
@@ -120,12 +137,14 @@
       "Law of gaseous volume"
     ],
     "answer": "Law of gaseous volume",
+    "subject": "physical chemistry",
     "chapter": "Some Basic Concepts of Chemistry",
     "topic": "Laws of Chemical Combination",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc004",
     "question": "Consider the following compounds: $\\underline{K}O_{2}$, $H_{2}\\underline{O}_{2}$ and $H_{2}\\underline{S}O_{4}$. The oxidation states of the underlined elements in them are, respectively,",
     "options": [
       "+1, -1, and +6",
@@ -134,12 +153,14 @@
       "+4, -4, and +6"
     ],
     "answer": "+1, -1, and +6",
+    "subject": "physical chemistry",
     "chapter": "Redox Reactions",
     "topic": "Oxidation Number",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc005",
     "question": "If the half-life ($t_{1/2}$) for a first order reaction is 1 minute, then the time required for 99.9% completion of the reaction is closet to:",
     "options": [
       "2 minutes",
@@ -148,12 +169,14 @@
       "10 minutes"
     ],
     "answer": "10 minutes",
+    "subject": "physical chemistry",
     "chapter": "Chemical Kinetics",
     "topic": "First Order Reactions",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic006",
     "question": "The correct order of the wavelength of light absorbed by the following complexes is, A. $[Co(NH_{3})_{6}]^{3+}$ B. $[Co(CN)_{6}]^{3-}$ C. $[Cu(H_{2}O)_{4}]^{2+}$ D. $[Ti(H_{2}O)_{6}]^{3+}$",
     "options": [
       "$B<D<A<C$",
@@ -162,12 +185,14 @@
       "$C<A<D<B$"
     ],
     "answer": "$B<A<D<C$",
+    "subject": "inorganic chemistry",
     "chapter": "Coordination Compounds",
     "topic": "Crystal Field Theory (CFT)",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc002",
     "question": "Which one of the following compounds can exist as cis-trans isomers?",
     "options": [
       "Pent-1-ene",
@@ -176,12 +201,14 @@
       "1,2-Dimethylcyclohexane"
     ],
     "answer": "1,2-Dimethylcyclohexane",
+    "subject": "organic chemistry",
     "chapter": "Organic Chemistry - Some Basic Principles",
     "topic": "Isomerism",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc006",
     "question": "Phosphoric acid ionizes in three steps with their ionization constant values $K_{a_{1}}$, $K_{a_{2}}$ and $K_{a_{3}}$ respectively, while K is the overall ionization constant. Which of the following statements are true? A. $log~K=log~K_{a_{1}}+log~K_{a_{2}}+log~K_{a_{3}}$ B. $H_{3}PO_{4}$ is stronger acid than $H_{2}PO_{4}^{-}$ and $HPO_{4}^{2-}$ C. $K_{a_{1}}>K_{a_{2}}>K_{a_{3}}$ D. $K_{a_{1}}=\\frac{K_{a_{3}}+K_{a_{2}}}{2}$",
     "options": [
       "A and B only",
@@ -190,12 +217,14 @@
       "A, B and C only"
     ],
     "answer": "A, B and C only",
+    "subject": "physical chemistry",
     "chapter": "Equilibrium",
     "topic": "Polyprotic Acids",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc003",
     "question": "Which one of the following reactions does NOT give benzene as the product?",
     "options": [
       "Sodium benzoate + Sodalime + $\\Delta$",
@@ -204,12 +233,14 @@
       "Benzenediazonium chloride + $H_{2}O$ + Warm"
     ],
     "answer": "Benzenediazonium chloride + $H_{2}O$ + Warm",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Preparation of Benzene",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc007",
     "question": "If the molar conductivity ($\\Lambda_{m}$) of a 0.050 mol $L^{-1}$ solution of a monobasic weak acid is $90~S~cm^{2}mol^{-1}$ its extent (degree) of dissociation will be [Assume $\\Lambda_{+}^{\\circ}=349.6~S~cm^{2}mol^{-1}$ and $\\Lambda_{-}^{\\circ}=50.4~S~cm^{2}mol^{-1}$]",
     "options": [
       "0.115",
@@ -218,12 +249,14 @@
       "0.215"
     ],
     "answer": "0.225",
+    "subject": "physical chemistry",
     "chapter": "Electrochemistry",
     "topic": "Kohlrausch's Law",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic007",
     "question": "Given below are two statements: Statement I: A hypothetical diatomic molecule with bond order zero is quite stable. Statement II: As bond order increases, the bond length increases. In the light of the above statements, chose the most appropriate answer from the options given below:",
     "options": [
       "Both statement I and Statement II are true",
@@ -232,12 +265,14 @@
       "Statement I is false but Statement II is true"
     ],
     "answer": "Both statement I and Statement II are false",
+    "subject": "inorganic chemistry",
     "chapter": "Chemical Bonding and Molecular Structure",
     "topic": "Molecular Orbital Theory",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic008",
     "question": "Out of the following complex compounds, which of the compound will be having the minimum conductance is solution?",
     "options": [
       "$[Co(NH_{3})_{3}Cl_{3}]$",
@@ -246,12 +281,14 @@
       "$[Co(NH_{3})_{5}Cl]Cl_{2}$"
     ],
     "answer": "$[Co(NH_{3})_{3}Cl_{3}]$",
+    "subject": "inorganic chemistry",
     "chapter": "Coordination Compounds",
     "topic": "Werner's Theory",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic009",
     "question": "Match the List-I with List-II. List-I: A. $XeO_{3}$ B. $XeF_{2}$ C. $XeOF_{4}$ D. $XeF_{6}$. List-II: I. $sp^{3}d$; linear II. $sp^{3}$ pyramidal III. $sp^{3}d^{3}$ distorted octahedral IV. $sp^{3}d^{2}$; square pyramidal",
     "options": [
       "A-II, B-I, C-IV, D-III",
@@ -260,12 +297,14 @@
       "A-IV, B-II, C-I, D-III"
     ],
     "answer": "A-II, B-I, C-IV, D-III",
+    "subject": "inorganic chemistry",
     "chapter": "p-Block Elements",
     "topic": "Noble Gases",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc008",
     "question": "$C(s)+2H_{2}(g)\\rightarrow CH_{4}(g)$ $\\Delta H=-74.8~kJ~mol^{-1}$. Which of the following diagrams gives an accurate representation of the above reaction? [R $\\rightarrow$ reactants; P $\\rightarrow$ products]",
     "options": [
       "Reactants higher than products by 74.8",
@@ -274,12 +313,14 @@
       "Products lower than reactants"
     ],
     "answer": "Reactants higher than products by 74.8",
+    "subject": "physical chemistry",
     "chapter": "Thermodynamics",
     "topic": "Enthalpy",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc009",
     "question": "Match the List-I with List-II. List-I (Example): A. Humidity B. Alloys C. Amalgams D. Smoke. List-II (Type of Solution): I. Solid in solid II. Liquid in gas III. Solid in gas IV. Liquid in solid",
     "options": [
       "A-II, B-IV, C-I, D-III",
@@ -288,12 +329,14 @@
       "A-III, B-II, C-I, D-IV"
     ],
     "answer": "A-II, B-I, C-IV, D-III",
+    "subject": "physical chemistry",
     "chapter": "Solutions",
     "topic": "Types of Solutions",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc004",
     "question": "The correct order of decreasing basic strength of the given amines is:",
     "options": [
       "N-methylaniline > benzenamine > ethanamine > N-ethylethanamine",
@@ -302,12 +345,14 @@
       "benzenamine > ethanamine > N-methylaniline > N-ethylethanamine"
     ],
     "answer": "N-ethylethanamine > ethanamine > N-methylaniline > benzenamine",
+    "subject": "organic chemistry",
     "chapter": "Amines",
     "topic": "Basic Character of Amines",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc010",
     "question": "Among the following, choose the ones with equal number of atoms. A. 212 g of $Na_{2}CO_{3}$ (s) [molar mass = 106 g] B. 248 g of $Na_{2}O$ (s) [molar mass = 62 g] C. 240 g of NaOH (s) [molar mass = 40 g] D. 12 g of $H_{2}(g)$ [molar mass = 2 g] E. 220 g of $CO_{2}(g)$ [molar mass = 44 g]",
     "options": [
       "A, B, and C only",
@@ -316,12 +361,14 @@
       "B, D, and E only"
     ],
     "answer": "A, B, and D only",
+    "subject": "physical chemistry",
     "chapter": "Some Basic Concepts of Chemistry",
     "topic": "Mole Concept",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc005",
     "question": "Match the List-I with List-II. List-I (Name of Vitamin): A. Vitamin $B_{12}$ B. Vitamin D C. Vitamin $B_{2}$ D. Vitamin $B_{6}$. List-II (Deficiency disease): I. Cheilosis II. Convulsions III. Rickets IV. Pernicious anaemia",
     "options": [
       "A-IV, B-III, C-I, D-II",
@@ -330,12 +377,14 @@
       "A-III, B-IV, C-I, D-II"
     ],
     "answer": "A-IV, B-III, C-I, D-II",
+    "subject": "organic chemistry",
     "chapter": "Biomolecules",
     "topic": "Vitamins",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc006",
     "question": "The correct order of decreasing acidity of the following aliphatic acids is:",
     "options": [
       "$(CH_{3})_{3}CCOOH > (CH_{3})_{2}CHCOOH > CH_{3}COOH > HCOOH$",
@@ -344,12 +393,14 @@
       "$HCOOH > (CH_{3})_{3}CCOOH > (CH_{3})_{2}CHCOOH > CH_{3}COOH$"
     ],
     "answer": "$HCOOH > CH_{3}COOH > (CH_{3})_{2}CHCOOH > (CH_{3})_{3}CCOOH$",
+    "subject": "organic chemistry",
     "chapter": "Carboxylic Acids",
     "topic": "Acidity",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc011",
     "question": "Given below are two statements; Statement I: Ferromagnetism is considered as an extreme form of paramagnetism. Statement II: The number of unpaired electrons in a $Cr^{2+}$ ion ($Z=24$) is the same as that of a $Nd^{3+}$ ion ($Z=60$). In the light of the above statements, choose the correct answer from the options given below:",
     "options": [
       "Both Statement I and Statement II are true",
@@ -358,12 +409,14 @@
       "Statement I is false but Statement II is true"
     ],
     "answer": "Statement I is true but Statement II is false",
+    "subject": "physical chemistry",
     "chapter": "The Solid State",
     "topic": "Magnetic Properties",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc007",
     "question": "Match the List-I with List-II. List-I (Mixture): A. $CHCl_{3} + C_{6}H_{5}NH_{2}$ B. Crude oil in petroleum industry C. Glycerol from spent-lye D. Aniline-water. List-II (Method of Separation): I. Distillation under reduced pressure II. Steam distillation III. Fractional distillation IV. Simple distillation",
     "options": [
       "A-IV, B-III, C-I, D-II",
@@ -372,12 +425,14 @@
       "A-IV, B-III, C-II, D-I"
     ],
     "answer": "A-IV, B-III, C-I, D-II",
+    "subject": "organic chemistry",
     "chapter": "Organic Chemistry - Some Basic Principles",
     "topic": "Purification Methods",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc012",
     "question": "For the reaction $A(g)\\rightleftharpoons 2B(g)$, the backward reaction rate constant is higher than the forward reaction rate constant by a factor of 2500, at 1000 K. [Given: $R=0.0831~L~atm~mol^{-1}K^{-1}$] $K_{P}$ for the reaction at 1000 K is",
     "options": [
       "83.1",
@@ -386,12 +441,14 @@
       "0.021"
     ],
     "answer": "0.033",
+    "subject": "physical chemistry",
     "chapter": "Equilibrium",
     "topic": "Equilibrium Constant",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc008",
     "question": "Given below are two statements: Statement I: Benzenediazonium salt is prepared by the reaction of aniline with nitrous acid at 273-278 K. It decomposes easily in the dry state. Statement II: Insertion of iodine into the benzene ring is difficult and hence iodobenzene is prepared through the reaction of benzenediazonium salt with KI. In the light of the above statements, choose the most appropriate answer from the options given below:",
     "options": [
       "Both Statement I and Statement II are correct",
@@ -400,12 +457,14 @@
       "Statement I is incorrect but Statement II is correct"
     ],
     "answer": "Both Statement I and Statement II are correct",
+    "subject": "organic chemistry",
     "chapter": "Amines",
     "topic": "Diazonium Salts",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc009",
     "question": "How many products (including stereoisomers) are expected from monochlorination of the following compound? 2-methylbutane",
     "options": [
       "2",
@@ -414,12 +473,14 @@
       "6"
     ],
     "answer": "6",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Halogenation of Alkanes",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc010",
     "question": "Among the given compounds I-III, the correct order of bond dissociation energy of C-H bond marked with * is: I. Ethyne C-H II. Benzene C-H III. Cyclopropane C-H",
     "options": [
       "I > II > III",
@@ -428,12 +489,14 @@
       "II > III > I"
     ],
     "answer": "I > II > III",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Bond Dissociation Energy",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc011",
     "question": "Which one of the following compounds does not decolourize bromine water?",
     "options": [
       "Cyclohexane",
@@ -442,12 +505,14 @@
       "Aniline"
     ],
     "answer": "Cyclohexane",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Alkenes",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc012",
     "question": "The major product of the following reaction is: $C_{6}H_{5}-CO-CH_{2}-CH_{2}-CN$ + (i) $CH_{3}MgBr$ (excess) (ii) $H_{3}O^{+}$",
     "options": [
       "$C_{6}H_{5}-C(OH)(CH_{3})-CH_{2}-CH_{2}-CH_{2}-NH_{2}$",
@@ -456,12 +521,14 @@
       "$C_{6}H_{5}-CO-CH_{2}-CH_{2}-CH_{2}-NH_{2}$"
     ],
     "answer": "$C_{6}H_{5}-C(OH)(CH_{3})-CH_{2}-CH_{2}-CO-CH_{3}$",
+    "subject": "organic chemistry",
     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
     "topic": "Grignard Reagent",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc013",
     "question": "Which of the following aqueous solution will exhibit highest boiling point?",
     "options": [
       "0.01 M Urea",
@@ -470,12 +537,14 @@
       "0.015 M $C_{6}H_{12}O_{6}$"
     ],
     "answer": "0.01 M $Na_{2}SO_{4}$",
+    "subject": "physical chemistry",
     "chapter": "Solutions",
     "topic": "Colligative Properties",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic010",
     "question": "Match List-I with List-II. List-I: A. Haber process B. Wacker oxidation C. Wilkinson catalyst D. Ziegler catalyst. List-II: I. Fe catalyst II. $PdCl_{2}$ III. $[(PPh_{3})_{3}RhCl]$ IV. $TiCl_{4}$ with $Al(CH_{3})_{3}$",
     "options": [
       "A-I, B-II, C-IV, D-III",
@@ -484,12 +553,14 @@
       "A-I, B-IV, C-III, D-II"
     ],
     "answer": "A-I, B-II, C-III, D-IV",
+    "subject": "inorganic chemistry",
     "chapter": "d and f Block Elements",
     "topic": "Catalysis",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc014",
     "question": "5 moles of liquid X and 10 moles of liquid Y make a solution having a vapour pressure of 70 torr. The vapour pressures of pure X and Y are 63 torr and 78 torr respectively. Which of the following is true regarding the described solution?",
     "options": [
       "The solution shows positive deviation.",
@@ -498,12 +569,14 @@
       "The solution has volume greater than the sum of individual volumes."
     ],
     "answer": "The solution shows negative deviation.",
+    "subject": "physical chemistry",
     "chapter": "Solutions",
     "topic": "Non-Ideal Solutions",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc013",
     "question": "Sugar 'X' A. is found in honey. B. is a keto sugar. C. exists in $\\alpha$ and $\\beta$-anomeric forms. D. is laevorotatory. 'X' is:",
     "options": [
       "D-Glucose",
@@ -512,12 +585,14 @@
       "Sucrose"
     ],
     "answer": "D-Fructose",
+    "subject": "organic chemistry",
     "chapter": "Biomolecules",
     "topic": "Carbohydrates",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc014",
     "question": "Identify the suitable reagent for the following conversion. $CH_{3}-O-C_{6}H_{4}-COOCH_{3} \\rightarrow CH_{3}-O-C_{6}H_{4}-CHO$",
     "options": [
       "(i) $LiAlH_{4}$, (ii) $H^{+}/H_{2}O$",
@@ -526,12 +601,14 @@
       "(i) $H_{2}/Pd-BaSO_{4}$"
     ],
     "answer": "(i) $AlH(iBu)_{2}$ (ii) $H_{2}O$",
+    "subject": "organic chemistry",
     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
     "topic": "Preparation of Aldehydes",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc015",
     "question": "Given below are two statement: one is labelled as Assertion (A) and the other is labelled as Reason (R): Assertion (A): 1-Iodobutane undergoes $S_{N}2$ reaction faster than 1-chlorobutane. Reason (R): Iodine is a better leaving group because of its large size. In the light of the above statements, choose the correct answer from the options given below:",
     "options": [
       "Both A and R are true and R is the correct explanation of A.",
@@ -540,12 +617,14 @@
       "A is false but R is true."
     ],
     "answer": "Both A and R are true and R is the correct explanation of A.",
+    "subject": "organic chemistry",
     "chapter": "Haloalkanes and Haloarenes",
     "topic": "Nucleophilic Substitution",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc015",
     "question": "The standard heat of formation, in kcal/mol of $Ba^{2+}$ is: [Given: standard heat of formation of $SO_{4}^{2-}$ ion $(aq)=-216~kcal/mol$ standard heat of crystallization of $BaSO_{4}(s)=-4.5~kcal/mol$, standard heat of formation of $BaSO_{4}(s)=-349~kcal/mol$]",
     "options": [
       "-128.5",
@@ -554,12 +633,14 @@
       "+220.5"
     ],
     "answer": "-128.5",
+    "subject": "physical chemistry",
     "chapter": "Thermodynamics",
     "topic": "Enthalpy of Formation",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc016",
     "question": "Total number of possible isomers (both structural as well as stereoisomers) of cyclic ethers of molecular formula $C_{4}H_{8}O$ is:",
     "options": [
       "6",
@@ -568,12 +649,14 @@
       "11"
     ],
     "answer": "10",
+    "subject": "organic chemistry",
     "chapter": "Ethers",
     "topic": "Isomerism",
     "difficulty": "hard",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "ic011",
     "question": "Identify the correct orders against the property mentioned A. $H_{2}O>NH_{3}>CHCl_{3}$ - dipole moment B. $XeF_{4}>XeO_{3}>XeF_{2}$ - number of lone pairs on central atom C. $O-H>C-H>N-O$ - bond length D. $N_{2}>O_{2}>H_{2}$ - bond enthalpy Choose the correct answer from the options given below:",
     "options": [
       "A, D only",
@@ -582,12 +665,14 @@
       "B, C only"
     ],
     "answer": "A, D only",
+    "subject": "inorganic chemistry",
     "chapter": "Chemical Bonding and Molecular Structure",
     "topic": "Bond Parameters",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc016",
     "question": "Higher yield of NO in $N_{2}(g)+O_{2}(g)\\rightleftharpoons 2NO(g)$ can be obtained at [$\\Delta H$ of the reaction $=+180.7~kJ~mol^{-1}$] A. higher temperature B. lower temperature C. higher concentration of $N_{2}$ D. higher concentration of $O_{2}$ Choose the correct answer from the options given below:",
     "options": [
       "A, D only",
@@ -596,12 +681,14 @@
       "A, C, D only"
     ],
     "answer": "A, C, D only",
+    "subject": "physical chemistry",
     "chapter": "Equilibrium",
     "topic": "Le Chatelier's Principle",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc017",
     "question": "If the rate constant of a reaction is 0.03 $s^{-1}$, how much time does it take for 7.2 mol $L^{-1}$ concentration of the reactant to get reduced to 0.9 mol $L^{-1}$; (Given: $log~2=0.301$)",
     "options": [
       "69.3 s",
@@ -610,12 +697,14 @@
       "21.0 s"
     ],
     "answer": "69.3 s",
+    "subject": "physical chemistry",
     "chapter": "Chemical Kinetics",
     "topic": "First Order Reactions",
     "difficulty": "medium",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "oc017",
     "question": "Which one of the following reactions does NOT belong to 'Lassaigne's test'?",
     "options": [
       "$Na+C+N\\rightarrow NaCN$",
@@ -624,12 +713,14 @@
       "$2CuO+C\\xrightarrow{\\Delta} 2Cu+CO_{2}$"
     ],
     "answer": "$2CuO+C\\xrightarrow{\\Delta} 2Cu+CO_{2}$",
+    "subject": "organic chemistry",
     "chapter": "Organic Chemistry - Some Basic Principles",
     "topic": "Qualitative Analysis",
     "difficulty": "easy",
     "type": "PYQ NEET 2025"
   },
   {
+    "id": "pc018",
     "question": "An organic compound contains 78% (by wt.) carbon and remaining percentage of hydrogen. The right option for the empirical formula of this compound is: [Atomic wt. of C is 12, H is 1]",
     "options": [
       "CH2",
@@ -638,12 +729,14 @@
       "CH"
     ],
     "answer": "CH3",
+    "subject": "physical chemistry",
     "chapter": "Some Basic Concepts of Chemistry",
     "topic": "Empirical and Molecular Formula",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc019",
     "question": "A particular station of All India Radio, New Delhi, broadcasts on a frequency of 1,368 kHz (kilohertz). The wavelength of the electromagnetic radiation emitted by the transmitter is: [speed of light, c = 3.0 x 10^8 m/s]",
     "options": [
       "219.2 m",
@@ -652,12 +745,14 @@
       "219.3 m"
     ],
     "answer": "219.3 m",
+    "subject": "physical chemistry",
     "chapter": "Structure of Atom",
     "topic": "Electromagnetic Radiation",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic012",
     "question": "BF3 is planar and electron deficient compound. Hybridization and number of electrons around the central atom, respectively are:",
     "options": [
       "sp3 and 6",
@@ -666,12 +761,14 @@
       "sp3 and 4"
     ],
     "answer": "sp2 and 6",
+    "subject": "inorganic chemistry",
     "chapter": "Chemical Bonding and Molecular Structure",
     "topic": "Hybridization",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic013",
     "question": "Match List-I with List-II: (A) PCl5 (i) Square pyramidal, (B) SF6 (ii) Trigonal planar, (C) BrF5 (iii) Octahedral, (D) BF3 (iv) Trigonal bipyramidal",
     "options": [
       "A-ii, B-iii, C-iv, D-i",
@@ -680,12 +777,14 @@
       "A-iv, B-iii, C-i, D-ii"
     ],
     "answer": "A-iv, B-iii, C-i, D-ii",
+    "subject": "inorganic chemistry",
     "chapter": "Chemical Bonding and Molecular Structure",
     "topic": "VSEPR Theory",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc020",
     "question": "Choose the correct option for graphical representation of Boyle's law, which shows a graph of pressure vs. volume of a gas at different temperatures.",
     "options": [
       "Linear graph of Pressure vs Volume",
@@ -694,12 +793,14 @@
       "Rectangular hyperbolas where the curve for 200 K is above 400 K and 600 K"
     ],
     "answer": "Rectangular hyperbolas where the curve for 600 K is above 400 K and 200 K",
+    "subject": "physical chemistry",
     "chapter": "States of Matter",
     "topic": "Gas Laws",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc021",
     "question": "Which one among the following is the correct option for right relationship between Cp and Cv for one mole of ideal gas?",
     "options": [
       "Cp - Cv = R",
@@ -708,12 +809,14 @@
       "Cp + Cv = R"
     ],
     "answer": "Cp - Cv = R",
+    "subject": "physical chemistry",
     "chapter": "Thermodynamics",
     "topic": "Heat Capacity",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc022",
     "question": "The pKb of dimethylamine and pKa of acetic acid are 3.27 and 4.77 respectively at T(K). The correct option for the pH of dimethylammonium acetate solution is:",
     "options": [
       "5.50",
@@ -722,12 +825,14 @@
       "8.50"
     ],
     "answer": "7.75",
+    "subject": "physical chemistry",
     "chapter": "Equilibrium",
     "topic": "Hydrolysis of Salts",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc023",
     "question": "Which of the following reactions is the metal displacement reaction? Choose the right option.",
     "options": [
       "Cr2O3 + 2Al -> Al2O3 + 2Cr",
@@ -736,12 +841,14 @@
       "2KClO3 -> 2KCl + 3O2"
     ],
     "answer": "Cr2O3 + 2Al -> Al2O3 + 2Cr",
+    "subject": "physical chemistry",
     "chapter": "Redox Reactions",
     "topic": "Types of Redox Reactions",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic014",
     "question": "Tritium, a radioactive isotope of hydrogen, emits which of the following particles.",
     "options": [
       "Alpha",
@@ -750,12 +857,14 @@
       "Beta"
     ],
     "answer": "Beta",
+    "subject": "inorganic chemistry",
     "chapter": "Hydrogen",
     "topic": "Isotopes of Hydrogen",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic015",
     "question": "The structures of beryllium chloride in solid state and vapour phase, are:",
     "options": [
       "Linear in both",
@@ -764,12 +873,14 @@
       "Chain and dimer, respectively"
     ],
     "answer": "Chain and dimer, respectively",
+    "subject": "inorganic chemistry",
     "chapter": "The s-Block Elements",
     "topic": "Alkaline Earth Metals",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic016",
     "question": "Among the following alkaline earth metal halides, one which is covalent and soluble in organic solvents is:",
     "options": [
       "Strontium chloride",
@@ -778,12 +889,14 @@
       "Calcium chloride"
     ],
     "answer": "Beryllium chloride",
+    "subject": "inorganic chemistry",
     "chapter": "The s-Block Elements",
     "topic": "Alkaline Earth Metals",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc018",
     "question": "The compound which shows metamerism is:",
     "options": [
       "C3H8O",
@@ -792,12 +905,14 @@
       "C5H12"
     ],
     "answer": "C4H10O",
+    "subject": "organic chemistry",
     "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
     "topic": "Isomerism",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc019",
     "question": "The correct structure of 2,6-Dimethyl-dec-4-ene is:",
     "options": [
       "Structure A",
@@ -806,12 +921,14 @@
       "Structure matching 2,6-Dimethyl-dec-4-ene"
     ],
     "answer": "Structure matching 2,6-Dimethyl-dec-4-ene",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Nomenclature",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc020",
     "question": "Dihedral angle of least stable conformer of ethane is:",
     "options": [
       "180 degrees",
@@ -820,12 +937,14 @@
       "120 degrees"
     ],
     "answer": "0 degrees",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Alkanes",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc021",
     "question": "The major product of the following chemical reaction is: CH3-CH=CH2 + HBr + (C6H5CO)2O2 -> ?",
     "options": [
       "CH3-CH(Br)-CH3",
@@ -834,12 +953,14 @@
       "CH3-CH2-CH2-Br"
     ],
     "answer": "CH3-CH2-CH2-Br",
+    "subject": "organic chemistry",
     "chapter": "Hydrocarbons",
     "topic": "Alkenes",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc024",
     "question": "Right option for the number of tetrahedral and octahedral voids in hexagonal primitive unit cell are:",
     "options": [
       "6, 12",
@@ -848,12 +969,14 @@
       "8, 4"
     ],
     "answer": "12, 6",
+    "subject": "physical chemistry",
     "chapter": "The Solid State",
     "topic": "Voids",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc025",
     "question": "The correct option for the number of body centred unit cells in all 14 types of Bravais lattice unit cells is:",
     "options": [
       "5",
@@ -862,12 +985,14 @@
       "7"
     ],
     "answer": "3",
+    "subject": "physical chemistry",
     "chapter": "The Solid State",
     "topic": "Crystal Lattices",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc026",
     "question": "The following solutions were prepared by dissolving 10 g of glucose (C6H12O6) in 250 ml of water (P1), 10 g of urea (CH4N2O) in 250 ml of water (P2) and 10 g of sucrose (C12H22O11) in 250 ml of water (P3). The right option for the decreasing order of osmotic pressure of these solutions is:",
     "options": [
       "P1 > P2 > P3",
@@ -876,12 +1001,14 @@
       "P2 > P1 > P3"
     ],
     "answer": "P2 > P1 > P3",
+    "subject": "physical chemistry",
     "chapter": "Solutions",
     "topic": "Osmotic Pressure",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc027",
     "question": "The molar conductance of NaCl, HCl and CH3COONa at infinite dilution are 126.45, 426.16 and 91.0 S cm^2 mol^-1 respectively. The molar conductance of CH3COOH at infinite dilution is:",
     "options": [
       "390.71 S cm^2 mol^-1",
@@ -890,12 +1017,14 @@
       "201.28 S cm^2 mol^-1"
     ],
     "answer": "390.71 S cm^2 mol^-1",
+    "subject": "physical chemistry",
     "chapter": "Electrochemistry",
     "topic": "Kohlrausch Law",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc028",
     "question": "For a reaction A -> B, enthalpy of reaction is -4.2 kJ mol^-1 and enthalpy of activation is 9.6 kJ mol^-1. The correct potential energy profile for the reaction is shown in option:",
     "options": [
       "Exothermic profile where energy of products is lower than reactants",
@@ -904,12 +1033,14 @@
       "Profile showing products equal in energy to reactants"
     ],
     "answer": "Exothermic profile where energy of products is lower than reactants",
+    "subject": "physical chemistry",
     "chapter": "Chemical Kinetics",
     "topic": "Activation Energy",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc029",
     "question": "The right option for the statement \"Tyndall effect is exhibited by\", is:",
     "options": [
       "Glucose solution",
@@ -918,12 +1049,14 @@
       "NaCl solution"
     ],
     "answer": "Starch solution",
+    "subject": "physical chemistry",
     "chapter": "Surface Chemistry",
     "topic": "Colloids",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic017",
     "question": "Which one of the following methods can be used to obtain highly pure metal which is liquid at room temperature?",
     "options": [
       "Chromatography",
@@ -932,12 +1065,14 @@
       "Electrolysis"
     ],
     "answer": "Distillation",
+    "subject": "inorganic chemistry",
     "chapter": "General Principles and Processes of Isolation of Elements",
     "topic": "Refining",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic018",
     "question": "The maximum temperature that can be achieved in blast furnace is:",
     "options": [
       "Upto 2200 K",
@@ -946,12 +1081,14 @@
       "Upto 1200 K"
     ],
     "answer": "Upto 2200 K",
+    "subject": "inorganic chemistry",
     "chapter": "General Principles and Processes of Isolation of Elements",
     "topic": "Extraction of Iron",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic019",
     "question": "Noble gases are named because of their inertness towards reactivity. Identify an incorrect statement about them.",
     "options": [
       "Noble gases have very high melting and boiling points",
@@ -960,12 +1097,14 @@
       "Noble gases are sparingly soluble in water"
     ],
     "answer": "Noble gases have very high melting and boiling points",
+    "subject": "inorganic chemistry",
     "chapter": "The p-Block Elements",
     "topic": "Group 18 Elements",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic020",
     "question": "Statement-I: Acid strength increases in the order given as HF < HCl < HBr < HI. Statement II: As the size of the elements F, Cl, Br, I increases down the group, the bond strength of HF, HCl, HBr and HI decreases and so the acid strength increases.",
     "options": [
       "Both statement I and statement II are false",
@@ -974,12 +1113,14 @@
       "Both statement I and statement II are true"
     ],
     "answer": "Both statement I and statement II are true",
+    "subject": "inorganic chemistry",
     "chapter": "The p-Block Elements",
     "topic": "Group 17 Elements",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic021",
     "question": "Zr (Z=40) and Hf (Z=72) have similar atomic and ionic radii because of:",
     "options": [
       "Diagonal relationship",
@@ -988,12 +1129,14 @@
       "Belonging to same group"
     ],
     "answer": "Lanthanoid contraction",
+    "subject": "inorganic chemistry",
     "chapter": "The d- and f-Block Elements",
     "topic": "Lanthanoids",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic022",
     "question": "The incorrect statement among the following is:",
     "options": [
       "Most of the trivalent Lanthanoid ions are colorless in the solid state",
@@ -1002,12 +1145,14 @@
       "Actinoid contraction is greater for element to element than Lanthanoid contraction"
     ],
     "answer": "Most of the trivalent Lanthanoid ions are colorless in the solid state",
+    "subject": "inorganic chemistry",
     "chapter": "The d- and f-Block Elements",
     "topic": "f-Block Elements",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic023",
     "question": "Ethylene diaminetetraacetate (EDTA) ion is:",
     "options": [
       "Unidentate ligand",
@@ -1016,12 +1161,14 @@
       "Hexadentate ligand with four \"O\" and two \"N\" donor atoms"
     ],
     "answer": "Hexadentate ligand with four \"O\" and two \"N\" donor atoms",
+    "subject": "inorganic chemistry",
     "chapter": "Coordination Compounds",
     "topic": "Ligands",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc022",
     "question": "The correct sequence of bond enthalpy of 'C-X' bond is:",
     "options": [
       "CH3-F > CH3-Cl > CH3-Br > CH3-I",
@@ -1030,12 +1177,14 @@
       "CH3-F < CH3-Cl < CH3-Br < CH3-I"
     ],
     "answer": "CH3-F > CH3-Cl > CH3-Br > CH3-I",
+    "subject": "organic chemistry",
     "chapter": "Haloalkanes and Haloarenes",
     "topic": "Nature of C-X Bond",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc023",
     "question": "The major product formed in dehydrohalogenation reaction of 2-Bromo pentane is Pent-2-ene. This product formation is based on?",
     "options": [
       "Hund's rule",
@@ -1044,12 +1193,14 @@
       "Saytzeff's rule"
     ],
     "answer": "Saytzeff's rule",
+    "subject": "organic chemistry",
     "chapter": "Haloalkanes and Haloarenes",
     "topic": "Elimination Reactions",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc024",
     "question": "What is the IUPAC name of the organic compound formed in the chemical reaction: Acetone + (i) C2H5MgBr, dry ether -> (ii) H2O, H+ -> Product?",
     "options": [
       "Pentan-2-ol",
@@ -1058,12 +1209,14 @@
       "2-methyl propan-2-ol"
     ],
     "answer": "2-methyl butan-2-ol",
+    "subject": "organic chemistry",
     "chapter": "Alcohols, Phenols and Ethers",
     "topic": "Preparation of Alcohols",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc025",
     "question": "Identify the compound that will react with Hinsberg's reagent to give a solid which dissolves in alkali.",
     "options": [
       "N,N-dimethylaniline",
@@ -1072,12 +1225,14 @@
       "Nitrobenzene"
     ],
     "answer": "Ethylamine (CH3CH2NH2)",
+    "subject": "organic chemistry",
     "chapter": "Amines",
     "topic": "Chemical Reactions",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc026",
     "question": "The RBC deficiency is deficiency disease of:",
     "options": [
       "Vitamin B6",
@@ -1086,12 +1241,14 @@
       "Vitamin B12"
     ],
     "answer": "Vitamin B12",
+    "subject": "organic chemistry",
     "chapter": "Biomolecules",
     "topic": "Vitamins",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc027",
     "question": "Which one of the following polymers is prepared by addition polymerisation?",
     "options": [
       "Nylon-66",
@@ -1100,12 +1257,14 @@
       "Teflon"
     ],
     "answer": "Teflon",
+    "subject": "organic chemistry",
     "chapter": "Polymers",
     "topic": "Addition Polymers",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc028",
     "question": "Statement-I: Aspirin and Paracetamol belong to the class of narcotic analgesics. Statement II: Morphine and Heroin are non-narcotic analgesics. In the light of the above statements, choose the correct answer:",
     "options": [
       "Both statement I and statement II are false",
@@ -1114,12 +1273,14 @@
       "Both statement I and statement II are true"
     ],
     "answer": "Both statement I and statement II are false",
+    "subject": "organic chemistry",
     "chapter": "Chemistry in Everyday Life",
     "topic": "Drugs and their Classification",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic024",
     "question": "From the following pairs of ions which one is not an iso-electronic pair?",
     "options": [
       "Na+, Mg2+",
@@ -1128,12 +1289,14 @@
       "O2-, F-"
     ],
     "answer": "Fe2+, Mn2+",
+    "subject": "inorganic chemistry",
     "chapter": "Classification of Elements and Periodicity in Properties",
     "topic": "Isoelectronic Species",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic025",
     "question": "Which of the following molecules is non-polar in nature?",
     "options": [
       "CH2O",
@@ -1142,12 +1305,14 @@
       "POCl3"
     ],
     "answer": "SbCl5",
+    "subject": "inorganic chemistry",
     "chapter": "Chemical Bonding and Molecular Structure",
     "topic": "Dipole Moment",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc030",
     "question": "Choose the correct option for the total pressure (in atm.) in a mixture of 4 g O2 and 2 g H2 confined in a total volume of one litre at 0 degrees C is: [Given R = 0.082 L atm mol^-1 K^-1, T = 273 K]",
     "options": [
       "2.602",
@@ -1156,12 +1321,14 @@
       "2.518"
     ],
     "answer": "25.18",
+    "subject": "physical chemistry",
     "chapter": "States of Matter",
     "topic": "Dalton's Law of Partial Pressures",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc031",
     "question": "For irreversible expansion of an ideal gas under isothermal condition, the correct option is:",
     "options": [
       "Delta U != 0, Delta S_total != 0",
@@ -1170,12 +1337,14 @@
       "Delta U = 0, Delta S_total = 0"
     ],
     "answer": "Delta U = 0, Delta S_total != 0",
+    "subject": "physical chemistry",
     "chapter": "Thermodynamics",
     "topic": "Isothermal Process",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic026",
     "question": "Match List-I with List-II: (A) 2SO2 + O2 -> 2SO3 (i) Acid rain, (B) HOCl -> OH + Cl (ii) Smog, (C) CaCO3 + H2SO4 -> CaSO4 + H2O + CO2 (iii) Ozone depletion, (D) NO2 -> NO + O (iv) Tropospheric pollution",
     "options": [
       "A-ii, B-iii, C-iv, D-i",
@@ -1184,12 +1353,14 @@
       "A-i, B-ii, C-iii, D-iv"
     ],
     "answer": "A-iv, B-iii, C-i, D-ii",
+    "subject": "inorganic chemistry",
     "chapter": "Environmental Chemistry",
     "topic": "Atmospheric Pollution",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc032",
     "question": "The correct option for the value of vapour pressure of a solution at 45 degrees C with benzene to octane in molar ratio 3:2 is: [At 45 degrees C vapour pressure of benzene is 280 mm Hg and that of octane is 420 mm Hg. Assume Ideal gas]",
     "options": [
       "168 mm of Hg",
@@ -1198,12 +1369,14 @@
       "160 mm of Hg"
     ],
     "answer": "336 mm of Hg",
+    "subject": "physical chemistry",
     "chapter": "Solutions",
     "topic": "Raoult's Law",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc033",
     "question": "The molar conductivity of 0.007 M acetic acid is 20 S cm^2 mol^-1. What is the dissociation constant of acetic acid? (Lambda^o H+ = 350 S cm^2 mol^-1, Lambda^o CH3COO- = 50 S cm^2 mol^-1)",
     "options": [
       "2.50 x 10^-4 mol L^-1",
@@ -1212,12 +1385,14 @@
       "1.75 x 10^-4 mol L^-1"
     ],
     "answer": "1.75 x 10^-5 mol L^-1",
+    "subject": "physical chemistry",
     "chapter": "Electrochemistry",
     "topic": "Conductance",
     "difficulty": "hard",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "pc034",
     "question": "The slope of Arrhenius Plot (ln K v/s 1/T) of first order reaction is -5 x 10^3 K. The value of Ea of the reaction is. [Given R = 8.314 J K^-1 mol^-1]",
     "options": [
       "83.0 kJ mol^-1",
@@ -1226,12 +1401,14 @@
       "41.5 kJ mol^-1"
     ],
     "answer": "41.5 kJ mol^-1",
+    "subject": "physical chemistry",
     "chapter": "Chemical Kinetics",
     "topic": "Arrhenius Equation",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic027",
     "question": "In which one of the following arrangements the given sequence is not strictly according to the properties indicated against it?",
     "options": [
       "H2O < H2S < H2Se < H2Te : Increasing pKa values",
@@ -1240,12 +1417,14 @@
       "HF < HCl < HBr < HI : Increasing acidic strength"
     ],
     "answer": "H2O < H2S < H2Se < H2Te : Increasing pKa values",
+    "subject": "inorganic chemistry",
     "chapter": "The p-Block Elements",
     "topic": "Trends in Properties",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "ic028",
     "question": "Match List-I with List-II: (A) [Fe(CN)6]3- (i) 5.92 BM, (B) [Fe(H2O)6]3+ (ii) 0 BM, (C) [Fe(CN)6]4- (iii) 4.90 BM, (D) [Fe(H2O)6]2+ (iv) 1.73 BM",
     "options": [
       "A-ii, B-iv, C-iii, D-i",
@@ -1254,12 +1433,14 @@
       "A-iv, B-ii, C-i, D-iii"
     ],
     "answer": "A-iv, B-i, C-ii, D-iii",
+    "subject": "inorganic chemistry",
     "chapter": "Coordination Compounds",
     "topic": "Magnetic Properties",
     "difficulty": "hard",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc029",
     "question": "The product formed in the chemical reaction of a keto-ester (CH3-CO-CH2-CH2-COOCH3) with NaBH4 is:",
     "options": [
       "Reduction of both ketone and ester to alcohols",
@@ -1268,12 +1449,14 @@
       "No reaction"
     ],
     "answer": "Reduction of ketone to secondary alcohol while ester remains intact",
+    "subject": "organic chemistry",
     "chapter": "Alcohols, Phenols and Ethers",
     "topic": "Chemical Reactions",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc030",
     "question": "The intermediate compound 'X' in the Etard reaction (Toluene + CrO2Cl2 -> X -> Benzaldehyde) is:",
     "options": [
       "CH(OCOCH3)2",
@@ -1282,12 +1465,14 @@
       "CH(OCrOHCl2)2"
     ],
     "answer": "CH(OCrOHCl2)2",
+    "subject": "organic chemistry",
     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
     "topic": "Preparation of Aldehydes",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc031",
     "question": "CH3CH2COO-Na+ + ? --(Heat)--> CH3CH3 + Na2CO3. Consider the above reaction and identify the missing reagent/chemical.",
     "options": [
       "Red Phosphorus",
@@ -1296,12 +1481,14 @@
       "B2H6"
     ],
     "answer": "CaO",
+    "subject": "organic chemistry",
     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
     "topic": "Decarboxylation",
     "difficulty": "easy",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc032",
     "question": "Match List-I with List-II: (A) CO, HCl, Anhyd. AlCl3/CuCl (i) Hell-Volhard-Zelinsky reaction, (B) R-CO-CH3 + NaOX (ii) Gattermann-Koch reaction, (C) R-CH2-OH + R'COOH + Conc. H2SO4 (iii) Haloform reaction, (D) R-CH2COOH + (i) X2/Red P (ii) H2O (iv) Esterification",
     "options": [
       "A-iii, B-ii, C-i, D-iv",
@@ -1310,12 +1497,14 @@
       "A-iv, B-i, C-ii, D-iii"
     ],
     "answer": "A-ii, B-iii, C-iv, D-i",
+    "subject": "organic chemistry",
     "chapter": "Aldehydes, Ketones and Carboxylic Acids",
     "topic": "Chemical Reactions",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
   },
   {
+    "id": "oc033",
     "question": "The reagent 'R' in the given sequence of chemical reaction (2,4,6-tribromoaniline -> Diazonium salt -> 1,3,5-tribromobenzene) is:",
     "options": [
       "CH3CH2OH",
@@ -1324,6 +1513,7 @@
       "H2O"
     ],
     "answer": "CH3CH2OH",
+    "subject": "organic chemistry",
     "chapter": "Amines",
     "topic": "Diazonium Salts",
     "difficulty": "medium",

@@ -8,25 +8,88 @@ let timeLeft = config.timer * 60;
 let timerInterval;
 let violations = 0;
 
-async function loadQuestions() {
-    let subjectsToLoad = config.subject === 'All' ? ['biology', 'physics', 'chemistry'] : [config.subject.toLowerCase()];
-    let allQs = [];
-    
-    for (let sub of subjectsToLoad) {
-        const res = await fetch(`data/${sub}.json`);
-        const data = await res.json();
-        allQs = allQs.concat(data);
+const subjectLoadMap = {
+    NEET: {
+        Biology: [{ file: 'biology' }],
+        'Physical Chemistry': [{ file: 'chemistry', filter: q => q.subject?.toLowerCase() === 'physical chemistry' }],
+        'Inorganic Chemistry': [{ file: 'chemistry', filter: q => q.subject?.toLowerCase() === 'inorganic chemistry' }],
+        'Organic Chemistry': [{ file: 'chemistry', filter: q => q.subject?.toLowerCase() === 'organic chemistry' }],
+        Physics: [{ file: 'physics' }],
+        'Chemistry Mix': [{ file: 'chemistry' }],
+        All: [{ file: 'biology' }, { file: 'physics' }, { file: 'chemistry' }]
+    },
+    JEE: {
+        Math: [{ file: 'math' }],
+        'Physical Chemistry': [{ file: 'chemistry', filter: q => q.subject?.toLowerCase() === 'physical chemistry' }],
+        'Inorganic Chemistry': [{ file: 'chemistry', filter: q => q.subject?.toLowerCase() === 'inorganic chemistry' }],
+        'Organic Chemistry': [{ file: 'chemistry', filter: q => q.subject?.toLowerCase() === 'organic chemistry' }],
+        Physics: [{ file: 'physics' }],
+        'Chemistry Mix': [{ file: 'chemistry' }],
+        All: [{ file: 'math' }, { file: 'physics' }, { file: 'chemistry' }]
     }
-    
-    // Shuffle and slice
-    allQs = allQs.sort(() => 0.5 - Math.random()).slice(0, config.qCount);
-    
-    // Shuffle options
-    questions = allQs.map(q => ({
+};
+
+function normalizeQuestionId(q) {
+    if (q.id) return q.id;
+    return `${(q.question || '').slice(0, 120)}|${(q.answer || '').slice(0, 60)}`;
+}
+
+function shuffleArray(array) {
+    const result = [...array];
+    for (let i = result.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [result[i], result[j]] = [result[j], result[i]];
+    }
+    return result;
+}
+
+async function loadQuestions() {
+    const plan = subjectLoadMap[config.exam]?.[config.subject] || [];
+    let allQs = [];
+    const fileCache = {};
+
+    for (const entry of plan) {
+        if (!fileCache[entry.file]) {
+            try {
+                const res = await fetch(`data/${entry.file}.json`);
+                if (!res.ok) throw new Error(`Missing ${entry.file}.json`);
+                const data = await res.json();
+                fileCache[entry.file] = Array.isArray(data) ? data : [];
+            } catch (error) {
+                fileCache[entry.file] = [];
+            }
+        }
+    }
+
+    for (const entry of plan) {
+        const data = fileCache[entry.file] || [];
+        const items = entry.filter ? data.filter(entry.filter) : data;
+        allQs = allQs.concat(items);
+    }
+
+    if (config.difficulty && config.difficulty !== 'All') {
+        allQs = allQs.filter(q => (q.difficulty || '').toLowerCase() === config.difficulty.toLowerCase());
+    }
+
+    const uniqueMap = new Map();
+    allQs.forEach(q => {
+        const id = normalizeQuestionId(q);
+        uniqueMap.set(id, { ...q, id });
+    });
+    allQs = Array.from(uniqueMap.values());
+
+    if (!allQs.length) {
+        alert('No questions found for the selected exam, subject, and difficulty. Please update your choices.');
+        window.location.href = 'index.html';
+        return;
+    }
+
+    allQs = shuffleArray(allQs);
+    questions = allQs.slice(0, Math.min(config.qCount, allQs.length)).map(q => ({
         ...q,
-        options: q.options.sort(() => 0.5 - Math.random())
+        options: shuffleArray(Array.isArray(q.options) ? q.options : [])
     }));
-    
+
     initExam();
 }
 
@@ -41,22 +104,23 @@ function renderQuestion() {
     const q = questions[currentQIndex];
     document.getElementById('q-num').textContent = `Question ${currentQIndex + 1} of ${questions.length}`;
     document.getElementById('q-text').textContent = q.question;
-    
+    document.getElementById('q-type').textContent = q.type ? `Type: ${q.type}` : '';
+
     const optsDiv = document.getElementById('options');
     optsDiv.innerHTML = '';
-    
-    q.options.forEach((opt, idx) => {
+
+    q.options.forEach(opt => {
         const div = document.createElement('div');
         div.className = 'option' + (userAnswers[q.id] === opt ? ' selected' : '');
         div.textContent = opt;
         div.onclick = () => selectOption(q.id, opt);
         optsDiv.appendChild(div);
     });
-    
+
     document.getElementById('prev-btn').disabled = currentQIndex === 0;
     document.getElementById('next-btn').style.display = currentQIndex === questions.length - 1 ? 'none' : 'inline-block';
     document.getElementById('submit-btn').style.display = currentQIndex === questions.length - 1 ? 'inline-block' : 'none';
-    
+
     updatePalette();
 }
 
@@ -87,8 +151,8 @@ function updatePalette() {
     });
 }
 
-document.getElementById('prev-btn').onclick = () => { if(currentQIndex > 0) { currentQIndex--; renderQuestion(); } };
-document.getElementById('next-btn').onclick = () => { if(currentQIndex < questions.length - 1) { currentQIndex++; renderQuestion(); } };
+document.getElementById('prev-btn').onclick = () => { if (currentQIndex > 0) { currentQIndex--; renderQuestion(); } };
+document.getElementById('next-btn').onclick = () => { if (currentQIndex < questions.length - 1) { currentQIndex++; renderQuestion(); } };
 document.getElementById('submit-btn').onclick = submitExam;
 
 function startTimer() {
@@ -102,16 +166,16 @@ function startTimer() {
 }
 
 function setupAntiCheat() {
-    document.addEventListener('visibilitychange', () => { if(document.hidden) triggerViolation("Tab changed!"); });
-    window.addEventListener('blur', () => triggerViolation("Window unfocused!"));
+    document.addEventListener('visibilitychange', () => { if (document.hidden) triggerViolation('Tab changed!'); });
+    window.addEventListener('blur', () => triggerViolation('Window unfocused!'));
     document.addEventListener('contextmenu', e => e.preventDefault());
-    document.addEventListener('copy', e => { e.preventDefault(); triggerViolation("Copying is disabled."); });
+    document.addEventListener('copy', e => { e.preventDefault(); triggerViolation('Copying is disabled.'); });
 }
 
 function triggerViolation(msg) {
     violations++;
     alert(`WARNING: ${msg} Violation ${violations}/3.`);
-    if(violations >= 3) submitExam();
+    if (violations >= 3) submitExam();
 }
 
 function submitExam() {
