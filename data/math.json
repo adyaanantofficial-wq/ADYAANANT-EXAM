@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Let a, alpha+2 (alpha in Z) be the roots of the quadratic equation x(x+2)+(x+1)(x+3)+(x+2)(x+4)+...+(x+n-1)(x+n+1)=4n for some n in N. Then n+alpha is equal to: [cite: 3491, 3492, 3493]",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2 [cite: 3498]",
+    "chapter": "Quadratic Equations",
+    "topic": "Roots of Equation",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let x and y be real numbers such that 50(2x/(1+3i) - y/(1-2i)) = 31+17i, i=sqrt(-1). Then the value of 10(x-3y) is: [cite: 3555, 3556, 3557]",
+    "options": [
+      "20",
+      "31",
+      "35",
+      "75"
+    ],
+    "answer": "35 [cite: 3562]",
+    "chapter": "Complex Numbers",
+    "topic": "Algebra of Complex Numbers",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let alpha, beta in R be such that the system of linear equations x+2y+z=5, 2x+y+alpha z=5, 8x+4y+beta z=18 has no solution. Then beta/alpha is equal to: [cite: 3614, 3615, 3617, 3618, 3619]",
+    "options": [
+      "-4",
+      "4",
+      "8",
+      "-8"
+    ],
+    "answer": "8 [cite: 3624]",
+    "chapter": "Matrices and Determinants",
+    "topic": "System of Linear Equations",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let A=[1 2; 1 alpha] and B=[3 3; beta 2]. If A^2-4A+I=O and B^2-5B-6I=O then among the following statements: (S1): [(B-A)(B+A)]^T = [13 15; 7 10] and (S2): det(adj(A+B)) = -5. Choose the correct option: [cite: 3665, 3666, 3668, 3669, 3671, 3672]",
+    "options": [
+      "only (S1) is correct",
+      "only (S2) is correct",
+      "both (S1) and (S2) are correct",
+      "both (S1) and (S2) are wrong"
+    ],
+    "answer": "both (S1) and (S2) are correct [cite: 3681]",
+    "chapter": "Matrices and Determinants",
+    "topic": "Matrix Operations",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let A be the set of first 101 terms of an A.P., whose first term is 1 and the common difference is 5, and let B be the set of first 71 terms of an A.P., whose first term is 9 and the common difference is 7. Then the number of elements in A intersection B, which are divisible by 3, is: [cite: 3731]",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5 [cite: 3739]",
+    "chapter": "Sequences and Series",
+    "topic": "Arithmetic Progression",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The number of seven-digit numbers that can be formed by using the digits 1, 2, 3, 5, 7 such that each digit is used at least once, is: [cite: 3792]",
+    "options": [
+      "15400",
+      "17800",
+      "16800",
+      "29400"
+    ],
+    "answer": "16800 [cite: 3797]",
+    "chapter": "Permutations and Combinations",
+    "topic": "Arrangements",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The number of elements in the set S={(r,k) : k in Z and 36C_{r+1} = (6 * 35C_r)/(k^2-3)} is: [cite: 3821, 3822]",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "4 [cite: 3828]",
+    "chapter": "Binomial Theorem",
+    "topic": "Properties of Binomial Coefficients",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "If the mean of the following grouped data is 21 (Classes: 5-10, 10-15, 15-20, 20-25, 25-30, 30-35; Frequencies: 2, k, 28, 54, k+1, 5), then k is one of the roots of the equation: [cite: 3870, 3871, 3872]",
+    "options": [
+      "2x^2-23x-10=0",
+      "4x^2-35x+24=0",
+      "2x^2-19x-10=0",
+      "2x^2-35x+98=0"
+    ],
+    "answer": "2x^2-23x-10=0 [cite: 3881]",
+    "chapter": "Statistics",
+    "topic": "Mean of Grouped Data",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let the midpoints of the sides of a triangle ABC be (5/2, 7), (5/2, 3) and (4, 5). If its incentre is (h, k), then 3h+k is equal to: [cite: 3914, 3915]",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": "13 [cite: 3920]",
+    "chapter": "Coordinate Geometry",
+    "topic": "Properties of Triangles",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let an ellipse x^2/a^2 + y^2/b^2 = 1 (a < b) pass through the point (4,3) and have eccentricity sqrt(5)/3. Then the length of its latus rectum is: [cite: 3959, 3960, 3961, 3962]",
+    "options": [
+      "4sqrt(5)/3",
+      "2sqrt(5)",
+      "7sqrt(5)/3",
+      "8sqrt(5)/3"
+    ],
+    "answer": "4sqrt(5)/3 [cite: 3969]",
+    "chapter": "Conic Sections",
+    "topic": "Ellipse",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "If sin(pi/18)sin(5pi/18)sin(7pi/18) = K, then the value of sin(10Kpi/3) is: [cite: 4005, 4006, 4007]",
+    "options": [
+      "(sqrt(3)+1)/(2sqrt(2))",
+      "(sqrt(3)-1)/sqrt(2)",
+      "sqrt(3)/2",
+      "1/2"
+    ],
+    "answer": "1/2 [cite: 4011]",
+    "chapter": "Trigonometry",
+    "topic": "Trigonometric Identities",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let S = {x in [-pi, pi] : sin x(sin x + cos x) = a, a in Z}. Then n(S) is equal to: [cite: 4039, 4040, 4045]",
+    "options": [
+      "3",
+      "6",
+      "7",
+      "9"
+    ],
+    "answer": "6 [cite: 4046]",
+    "chapter": "Trigonometry",
+    "topic": "Trigonometric Equations",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "If the point of intersection of the lines (x+1)/3 = (y+a)/5 = (z+b+1)/7 and (x-2)/1 = (y-b)/4 = (z-2a)/7 lies on the xy-plane, then the value of a+b is: [cite: 4088, 4089, 4090]",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "5 [cite: 4095]",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Intersection of Lines",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "If |a|=2 and |b|=3, then the maximum value of 3|(a+2b)|+4|(3a-2b)| is: [cite: 4138, 4139]",
+    "options": [
+      "30",
+      "36",
+      "60",
+      "72"
+    ],
+    "answer": "60 [cite: 4148]",
+    "chapter": "Vectors",
+    "topic": "Vector Algebra",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let a line L passing through the point (1, 1, 1) be perpendicular to both the vectors 2i+2j+k and i+2j+2k. If (a, b, c) is the foot of perpendicular from the origin on the line L, then the value of 34(a+b+c) is: [cite: 4181]",
+    "options": [
+      "50",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": "100 [cite: 4189]",
+    "chapter": "Three Dimensional Geometry",
+    "topic": "Straight Lines in Space",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "If lim_{x->2} (sin(x^3-5x^2+ax+b)) / ((sqrt(x-1)-1)ln(x-1)) = m, then a+b+m is equal to: [cite: 4233, 4234, 4237]",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "8 [cite: 4240]",
+    "chapter": "Limits and Continuity",
+    "topic": "Evaluation of Limits",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "If the curve y=f(x) passes through the point (1, e) and satisfies the differential equation dy = y(2+ln x)dx, x>0, then f(e) is equal to: [cite: 4284, 4285, 4286, 4287]",
+    "options": [
+      "e^e",
+      "e^(e^2)",
+      "e^(2e)",
+      "e"
+    ],
+    "answer": "e^(2e) [cite: 4326]",
+    "chapter": "Differential Equations",
+    "topic": "Variable Separable Form",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The number of critical points of the function f(x) = |sin x|/x for x!=0 and 1 for x=0 in the interval (-2pi, 2pi) is equal to: [cite: 4329, 4330, 4331]",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "answer": "5 [cite: 4339]",
+    "chapter": "Applications of Derivatives",
+    "topic": "Maxima and Minima",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let [] denote the greatest integer function. Then the value of integral from 0 to 3 of (e^x+e^-x)/[x]! dx is: [cite: 4367, 4368]",
+    "options": [
+      "e^2+e^3-1/e^2-1/e^3",
+      "1/2(e^2+e^3-1/e^2-1/e^3)",
+      "e^2+e^3-1/(2e^2)-1/(2e^3)",
+      "1/2(e^2+e^3)-1/e^2-1/e^3"
+    ],
+    "answer": "1/2(e^2+e^3-1/e^2-1/e^3) [cite: 4374]",
+    "chapter": "Integral Calculus",
+    "topic": "Definite Integrals",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Let y=y(x) be the solution curve of the differential equation (1+sin x)dy/dx + (y+1)cos x = 0, y(0)=0. If the curve passes through the point (alpha, -1/2), then a value of alpha is: [cite: 4401, 4403, 4406]",
+    "options": [
+      "pi/6",
+      "pi/4",
+      "pi/3",
+      "pi/2"
+    ],
+    "answer": "pi/3 [cite: 4413]",
+    "chapter": "Differential Equations",
+    "topic": "Linear Differential Equations",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  }
+]

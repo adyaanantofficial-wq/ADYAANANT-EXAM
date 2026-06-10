@@ -2862,5 +2862,1381 @@
     "topic": "Complex Formation",
     "difficulty": "easy",
     "type": "JEE mains module"
+  },
+  {
+    "id": "ic085",
+    "question": "The atomic number of Unnilunium is",
+    "options": [
+      "101",
+      "102",
+      "103",
+      "104"
+    ],
+    "answer": "101",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "IUPAC Nomenclature",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic086",
+    "question": "The element with atomic number 25 will be found in group",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electronic Configuration",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic087",
+    "question": "From the given compounds, if X number of compounds are acidic in water, find the value of X. CaO, SO2, SO3, Fe2O3, Cl2O7, CO2, Na2O",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Nature of Oxides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic088",
+    "question": "How many of the following have greater Zeff than Silicon atom: (i) Na (ii) Mg (iii) Al (iv) P (v) Cl (vi) S (vii) N (viii) O (ix) F",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Effective Nuclear Charge",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic089",
+    "question": "The first (IE1) and second (IE2) ionization enthalpies (in kJ/mol) and the (EG) electron gain enthalpy (in kJ/mol) of a few elements are given: I (520, 7300, -60); II (419, 3051, -48); III (1681, 3374, -328); IV (1008, 1846, -295); V (2372, 5251, +48); VI (738, 1451, -40). Which of the above is likely to be the least reactive non-metal?",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "V"
+    ],
+    "answer": "V",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Chemical Reactivity",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic090",
+    "question": "Assertion: PbCl2 is more stable than PbCl4. Reason: PbCl4 is a powerful oxidising agent.",
+    "options": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion",
+      "Assertion is correct but Reason is incorrect",
+      "Assertion is incorrect but Reason is correct"
+    ],
+    "answer": "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Inert Pair Effect",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic091",
+    "question": "The sum of the number of lone pairs of electrons on each central atom in the following species is [TeBr6]2-, [BrF2]+, SNF3, and [XeF3]-",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lone Pairs",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic092",
+    "question": "How many of the following compounds have (pπ-dπ) multiple bonds? SO2, SO3, HSO4-, SO42-, SO32-, HSO3-",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Pi Bonding",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic093",
+    "question": "Find the number of lone pairs of electrons present in a OF2 molecule.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "8",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Lewis Structures",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic094",
+    "question": "Which of the following is the correct prediction about observed B-F bond length in BF3 molecule?",
+    "options": [
+      "B-F bond length in BF3 is less than theoretical value because the bond is ionic.",
+      "BF3 and [BF4]- have equal B-F bond length.",
+      "The decrease in the B-F bond length in BF3 is due to delocalised pπ-pπ back bonding.",
+      "The correct B-X bond length order is B-F > B-Cl > B-Br > B-I."
+    ],
+    "answer": "The decrease in the B-F bond length in BF3 is due to delocalised pπ-pπ back bonding.",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Back Bonding",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic095",
+    "question": "The difference between bond orders of CO and NO+ is x/2. What is the value of x?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "0",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Molecular Orbital Theory",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic096",
+    "question": "Out of the given ten pairs of combination total pair(s), which results in zero overlapping is: (Assuming Z is overlapping axis) (py+s), (dxy+s), (dxy+py), (dyz+dxy), (pz+s), (py+pz), (s+s), (s+py), (py+py).",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Orbital Overlap",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic097",
+    "question": "Overlapping leads to the formation of bonding molecular orbital in:",
+    "options": [
+      "s + p_y orbital",
+      "s + p_x orbital (along x-axis)",
+      "p_z + p_z orbital with opposite phases",
+      "p_x + p_x orbital lateral with opposite phases"
+    ],
+    "answer": "s + p_x orbital (along x-axis)",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Orbital Overlap",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic098",
+    "question": "The total mole of valence e- in 2.6 g of N3- is:",
+    "options": [
+      "1",
+      "2",
+      "0.5",
+      "1.5"
+    ],
+    "answer": "1",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Valence Electrons",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic099",
+    "question": "In context with the industrial preparation of hydrogen from water gas (CO + H2), which of the following is the correct statement?",
+    "options": [
+      "CO is oxidised to CO2 with steam, in the presence of a catalyst followed by the dissolution of CO2 in water under pressure.",
+      "CO and H2 are fractionally separated using the differences in their densities.",
+      "CO is removed by absorption in aqueous Cu2Cl2 solution.",
+      "H2 is removed through occlusion with Pd."
+    ],
+    "answer": "CO is oxidised to CO2 with steam, in the presence of a catalyst followed by the dissolution of CO2 in water under pressure.",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Preparation of Hydrogen",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic100",
+    "question": "Determine the values of A, B, C and D shown in the figure for the reaction of NaOH with Sn, Pb, Zn, and Al respectively.",
+    "options": [
+      "SnO3, PbO3, ZnO3, AlO2",
+      "Na2SnO2, Na2PbO2, Na2ZnO2, NaAlO2",
+      "SnO3, PbO3, ZnO2, AlO2",
+      "SnO3, PbO3, ZnO, AlO2"
+    ],
+    "answer": "Na2SnO2, Na2PbO2, Na2ZnO2, NaAlO2",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Reaction with Alkalies",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic101",
+    "question": "Number of electron-rich hydrides among the following are: CH4, NH3, PH3, H2O, H2S, BH3, HF, AlH3, AsH3.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hydrides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic102",
+    "question": "A sample of Hydrogen peroxide solution labelled as 28 volume has density of 265 g/L. Mark the correct option representing concentration of same solution in other units.",
+    "options": [
+      "Molarity of H2O2 = 2.8",
+      "Percentage w/v = 8.5",
+      "Mole fraction of H2O2 = 0.5",
+      "Molality of H2O2 = 12.53"
+    ],
+    "answer": "Percentage w/v = 8.5",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hydrogen Peroxide",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic103",
+    "question": "Consider the following equations: (i) 2Fe2+ + H2O2 -> xA + yB (in basic medium) (ii) 2MnO4- + 6H+ + 5H2O2 -> x'C + y'D + z'E (in acidic medium). The sum of the stoichiometric coefficients x, y, x', y' and z' for products A, B, C, D and E respectively, is",
+    "options": [
+      "15",
+      "17",
+      "19",
+      "21"
+    ],
+    "answer": "19",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hydrogen Peroxide",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic104",
+    "question": "Statements about heavy water are given below. A. Heavy water is used in exchange reactions for the study of reaction mechanisms. B. Heavy water is prepared by exhaustive electrolysis of water. C. Heavy water has higher boiling point than ordinary water. D. Viscosity of H2O is greater than D2O.",
+    "options": [
+      "A and C only",
+      "A, B and C only",
+      "A and B only",
+      "A and D only"
+    ],
+    "answer": "A, B and C only",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Heavy Water",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic105",
+    "question": "Which of the following statements about heavy water are correct? (a) Heavy water is used as a moderator in nuclear reactors. (b) Heavy water is more associated than ordinary water. (c) Heavy water is a more effective solvent than ordinary water.",
+    "options": [
+      "(b) and (c)",
+      "(a) and (b)",
+      "(a), (b) and (c)",
+      "(a) and (c)"
+    ],
+    "answer": "(a) and (b)",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Heavy Water",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic106",
+    "question": "The combustion of sodium in excess air yields a higher oxide. What is the oxidation state of the oxygen in the product?",
+    "options": [
+      "-2",
+      "-1",
+      "-0.5",
+      "0"
+    ],
+    "answer": "-1",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Oxides",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic107",
+    "question": "Find the sum of bond order between same bonded atoms in Q and R compounds in the reaction: Na2O2 + H2O (25°C) -> P + Q; Na2O2 + H2O (0°C) -> P + R + S.",
+    "options": [
+      "2.0",
+      "2.5",
+      "3.0",
+      "3.5"
+    ],
+    "answer": "3.0",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Compounds of Sodium",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic108",
+    "question": "3.88 g of a mixture of Na2CO3 and CaCO3 is heated to a constant mass of 3.00 g. What was the mass of Na2CO3 (in grams) in the mixture?",
+    "options": [
+      "1.00",
+      "1.88",
+      "2.00",
+      "2.88"
+    ],
+    "answer": "1.88",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Carbonates",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic109",
+    "question": "In the thermal decomposition of Sodium bicarbonate, find the number of products formed which contain carbon atom(s):",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Carbonates",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic110",
+    "question": "'X' is an alkaline earth metal. It imparts brick red colour to the Bunsen flame. Its oxide is basic in nature. The atomic number of 'X' is:",
+    "options": [
+      "12",
+      "20",
+      "38",
+      "56"
+    ],
+    "answer": "20",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Flame Test",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic111",
+    "question": "CaSO4.2H2O on heating at 120°C gives A. CaSO4.2H2O on heating at 200°C gives B. A and B respectively are:",
+    "options": [
+      "CaSO4, CaSO4.1/2H2O",
+      "CaSO4.1/2H2O, CaSO4",
+      "CaSO4.1/2H2O, Gypsum",
+      "Gypsum, CaSO4"
+    ],
+    "answer": "CaSO4.1/2H2O, CaSO4",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Compounds of Calcium",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic112",
+    "question": "The moles of hydrocarbon produced by hydrolysis of 1 mole Mg2C3 (magnesium carbide) is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Carbides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic113",
+    "question": "Three moles of B2H6 are completely reacted with methanol. The number of moles of boron containing product formed is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "6",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Boron Compounds",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic114",
+    "question": "In borax if m is number of hydroxy groups and 'n' is number of water molecules. What is the sum of m+n?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Borax",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic115",
+    "question": "Al metal reacts with HCl(aq) to give X + Gas P. Al metal reacts with NaOH(aq) + H2O to give Y + Gas Q. The incorrect statement regarding above reactions is:",
+    "options": [
+      "Al shows amphoteric character",
+      "Gas P and Q are different",
+      "Both X and Y are water soluble",
+      "Gas Q in inflammable"
+    ],
+    "answer": "Gas P and Q are different",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Aluminium",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic116",
+    "question": "Total number of oxygen atom(s) which act(s) as a bridge between any two silicon atoms in a mineral with composition M3Si3O9 (M = divalent metal ion) is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Silicates",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic117",
+    "question": "In the basic structural unit of silicates, the number of oxygen atoms bonded to each Si atom is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Silicates",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic118",
+    "question": "Total number of substances, which contain hexagonal planar rings in their structures: graphite, (BN)x, B3N3H6, C6H6, B2H6, H3P3O9 is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Structures",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic119",
+    "question": "27 g of Al was treated with NaOH solution when a white gelatinous precipitate was obtained which upon strong heating gave an oxide. The amount of oxide (in g) is:",
+    "options": [
+      "25.5",
+      "51",
+      "102",
+      "204"
+    ],
+    "answer": "51",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Aluminium Reactions",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic120",
+    "question": "Match the following: (a) Mercury (b) Copper (c) Silicon (d) Nickel WITH (i) Vapour phase refining (ii) Distillation refining (iii) Electrolytic refining (iv) Zone refining",
+    "options": [
+      "a-i, b-iv, c-ii, d-iii",
+      "a-ii, b-iii, c-iv, d-i",
+      "a-ii, b-iv, c-iii, d-i",
+      "a-i, b-iii, c-iv, d-ii"
+    ],
+    "answer": "a-ii, b-iii, c-iv, d-i",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Refining",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic121",
+    "question": "Among the following which metal is not refined by liquation?",
+    "options": [
+      "Si",
+      "Pb",
+      "Sn",
+      "Bi"
+    ],
+    "answer": "Si",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Refining",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic122",
+    "question": "In Van Arkel method, if I2 is introduced at 1800 K over impure zirconium metal, the product will be:",
+    "options": [
+      "iodide of the metal.",
+      "pure metal.",
+      "impurities react with iodine.",
+      "none of these."
+    ],
+    "answer": "none of these.",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Refining",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic123",
+    "question": "Which one of the following set of metals deposit as anode mud during the process of electrolytic refining of copper?",
+    "options": [
+      "Sn and Ag",
+      "Pb and Zn",
+      "Ag and Au",
+      "Fe and Ni"
+    ],
+    "answer": "Ag and Au",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Electrolytic Refining",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic124",
+    "question": "Extraction of gold and silver involves leaching with CN- ion. Silver or gold is later recovered by:",
+    "options": [
+      "Liquation",
+      "Distillation",
+      "Zone refining",
+      "Displacement with Zn"
+    ],
+    "answer": "Displacement with Zn",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Leaching",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic125",
+    "question": "Select the correct match for List -I (substances) with List -II (processes). A: Sulphuric acid, B: Steel, C: Sodium bicarbonate, D: Ammonia. P: Haber's process, Q: Bessemer process, R: Leblanc process, S: Contact process, T: Solvay process.",
+    "options": [
+      "(A) \u2192 (S); (B) \u2192 (R); (C) \u2192 (P); (D) \u2192 (Q)",
+      "(A) \u2192 (P); (B) \u2192 (Q); (C) \u2192 (R); (D) \u2192 (S)",
+      "(A) \u2192 (S); (B) \u2192 (Q); (C) \u2192 (T); (D) \u2192 (P)",
+      "(A) \u2192 (S); (B) \u2192 (T); (C) \u2192 (P); (D) \u2192 (R)"
+    ],
+    "answer": "(A) \u2192 (S); (B) \u2192 (Q); (C) \u2192 (T); (D) \u2192 (P)",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Industrial Processes",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic126",
+    "question": "How many bridging oxygen atoms are present in P4O10?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "6",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Oxides of Phosphorus",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic127",
+    "question": "There are three main well known allotropes of phosphorous in which one form is interconvertable to other as [X] --(573 K, Inert Atm)--> [Y] --(High pressure)--> [Z]. [X], [Y] and [Z] represent the:",
+    "options": [
+      "Red P, white P and black P respectively",
+      "White P, red P, and black P respectively",
+      "Black P, red P and white P respectively",
+      "Red P, black P and white P respectively"
+    ],
+    "answer": "White P, red P, and black P respectively",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Allotropes of Phosphorus",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic128",
+    "question": "Which of the following is the correct order of melting points of group 16 elements?",
+    "options": [
+      "O < S < Se < Te < Po",
+      "O < Se < S < Te < Po",
+      "O < S < Se < Te > Po",
+      "O < S < Se > Te < Po"
+    ],
+    "answer": "O < S < Se < Te > Po",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Group 16 Elements",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic129",
+    "question": "When a chlorine gas is treated with barium hydroxide it produces [X], barium chloride and water, when sulphuric acid is added to [X], it produced [Y] and barium sulphate. When Y is heated above 365 K, it produces Z and H2O. [Y] and [Z] refers to:",
+    "options": [
+      "HClO4, ClO2",
+      "HClO3, ClO2",
+      "HClO3, Cl2O6",
+      "HClO4, Cl2O7"
+    ],
+    "answer": "HClO3, ClO2",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Oxoacids of Halogens",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic130",
+    "question": "Which of the following is a correct match? a. H2O > H2S > H2Se > H2Te : Thermal stability; b. He < Ne < Ar < Kr < Xe : Ease of liquefaction; c. HF > HI > HBr > HCl : Order of boiling point; d. H2O < H2S < H2Se < H2Te : Reducing character.",
+    "options": [
+      "a, b and d",
+      "a, b and c",
+      "Both a and b",
+      "a, b, c and d"
+    ],
+    "answer": "a, b, c and d",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "General Trends",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic131",
+    "question": "XeF6 dissolves in anhydrous HF to give a conducting solution which contains:",
+    "options": [
+      "H+ and XeF7- ions.",
+      "HF2- and XeF5+.",
+      "HXeF6+ and F- ions.",
+      "None of these."
+    ],
+    "answer": "HF2- and XeF5+.",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Noble Gases",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic132",
+    "question": "How many of the following elements belong to 5d series? Hf, Cd, Cu, Hg, Y, Ag, Pt, Ac",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Transition Series",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic133",
+    "question": "Number of H2O molecule which is bonded by hydrogen bonding in CuSO4.5H2O:",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "1",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Compounds of Copper",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic134",
+    "question": "When sodium dichromate is treated with KCl, it produces orange crystals of compound [A] which is treated with conc. H2SO4 and soluble KCl produces deep red vapour of [B]. Identify [A] and [B].",
+    "options": [
+      "[A] is K2CrO4 and [B] is CrO2Cl2",
+      "[A] is K2Cr2O7 and [B] is CrO3",
+      "[A] is K2Cr2O7 and [B] is CrO2Cl2",
+      "[A] is K2CrO4 and [B] is CrO3"
+    ],
+    "answer": "[A] is K2Cr2O7 and [B] is CrO2Cl2",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Compounds of Transition Metals",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic135",
+    "question": "Which of the following statement is correct when a mixture of NaCl and K2Cr2O7 is gently warmed with conc. H2SO4? 1. A deep red vapour is evolved 2. The vapour when passed into NaOH solution gives a yellow solution of Na2CrO4 3. Chlorine gas is evolved 4. Chromyl chloride is formed",
+    "options": [
+      "1, 2, 4",
+      "1, 2, 3",
+      "2, 3, 4",
+      "all are correct"
+    ],
+    "answer": "1, 2, 4",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Chromyl Chloride Test",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic136",
+    "question": "Which of the following statement is not correct :-",
+    "options": [
+      "In the transition elements the incoming e- occupy (n-1)d subshell in preference to np.",
+      "Elements having atomic number 57 to 71 belong to same group",
+      "Lanthanum is the first element of Lanthanoids",
+      "Actinium violates the Aufbau's principle"
+    ],
+    "answer": "Lanthanum is the first element of Lanthanoids",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Lanthanides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic137",
+    "question": "The CORRECT Sidgwick structure for a ferrocyanide complex is:",
+    "options": [
+      "Coordination with 4 CN- and 2 NC-",
+      "Coordination with 6 CN- ligands donating lone pair to Fe2+",
+      "Coordination with 6 NC- ligands donating lone pair to Fe2+",
+      "Coordination with mixed Cl- and CN-"
+    ],
+    "answer": "Coordination with 6 CN- ligands donating lone pair to Fe2+",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Structure",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic138",
+    "question": "In the carbonyl compound Fe2(CO)9 what is the EAN of Fe:",
+    "options": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "answer": "36",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Effective Atomic Number",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic139",
+    "question": "Medicines used in the treatment of cancer patients involves, which of the following complex compound?",
+    "options": [
+      "[Co(NH3)6]Cl3",
+      "trans-platin",
+      "cis-platin",
+      "Zeise's salt"
+    ],
+    "answer": "cis-platin",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Applications",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic140",
+    "question": "The phenomenon of optical activity will be shown by:",
+    "options": [
+      "[Co(NH3)4Cl2]+",
+      "[Co(en)3]3+",
+      "[Co(H2O)6]2+",
+      "trans-[Co(en)2Cl2]+"
+    ],
+    "answer": "[Co(en)3]3+",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Optical Isomerism",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic141",
+    "question": "The octahedral complex CoSO4Cl.5NH3 exists in two isomeric forms, X and Y. Isomer X reacts with AgNO3 to give a white precipitate, but does not react with BaCl2. Isomer Y gives a white precipitate with BaCl2 but does not react with AgNO3. X and Y are:",
+    "options": [
+      "Ionization isomers",
+      "Linkage isomers",
+      "Coordination isomers",
+      "Solvent isomers"
+    ],
+    "answer": "Ionization isomers",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Isomerism",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic142",
+    "question": "The complex that can show fac- and mer-isomers is:",
+    "options": [
+      "[Co(NH3)4Cl2]+",
+      "[Pt(NH3)2Cl2]",
+      "[CoCl2(en)2]",
+      "[Co(NH3)3(NO2)3]"
+    ],
+    "answer": "[Co(NH3)3(NO2)3]",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Geometrical Isomerism",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic143",
+    "question": "Complex [Co(en)2Cl2]Cl has number of possible isomers. (en = ethylenediamine)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Isomerism",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic144",
+    "question": "Match the complexes with their magnetic moments: (a) [Fe(CN)6]3- (b) [Fe(H2O)6]3+ (c) [Fe(CN)6]4- (d) [Fe(H2O)6]2+ WITH (i) 5.92 BM (ii) 0 BM (iii) 4.90 BM (iv) 1.73 BM",
+    "options": [
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    ],
+    "answer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Magnetic Properties",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic145",
+    "question": "Calculate the sum total of CFSE value in light pink colour complex [Mn(H2O)6]2+ for both sets of orbitals as compared to the average energy of d-orbital.",
+    "options": [
+      "0",
+      "-0.4 Dq",
+      "+0.6 Dq",
+      "-1.2 Dq"
+    ],
+    "answer": "0",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic146",
+    "question": "The splitting of d-orbitals where dz2 and dx2-y2 are at lower energy than dxy, dyz, and dzx takes place in the formation of complexes with geometry:",
+    "options": [
+      "tetrahedral",
+      "square-planar",
+      "octahedral",
+      "both tetrahedral and square-planar"
+    ],
+    "answer": "tetrahedral",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic147",
+    "question": "What should be possible d-orbital energy levels of Ni in [Ni(CN)4]2-?",
+    "options": [
+      "dz2 < dzx < dxy = dyz < dx2-y2",
+      "dx2-y2 < dxy < dz2 < dxy = dyz",
+      "dzx = dyz < dz2 < dxy < dx2-y2",
+      "dz2 < dxy = dyz < dxy < dx2-y2"
+    ],
+    "answer": "dzx = dyz < dz2 < dxy < dx2-y2",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Square Planar Splitting",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic148",
+    "question": "The correct order of intensity of colors of the compounds is:",
+    "options": [
+      "[Ni(CN)4]2- > [NiCl4]2- > [Ni(H2O)6]2+",
+      "[Ni(H2O)6]2+ > [NiCl4]2- > [Ni(CN)4]2-",
+      "[NiCl4]2- > [Ni(H2O)6]2+ > [Ni(CN)4]2-",
+      "[NiCl4]2- > [Ni(CN)4]2- > [Ni(H2O)6]2+"
+    ],
+    "answer": "[NiCl4]2- > [Ni(H2O)6]2+ > [Ni(CN)4]2-",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Color and Spectra",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic149",
+    "question": "Number of bridging CO ligands in [Mn2(CO)10] is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "0",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Metal Carbonyls",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic150",
+    "question": "The most stable ion is:",
+    "options": [
+      "[Fe(OH)5]3-",
+      "[FeCl6]3-",
+      "[Fe(CN)6]3-",
+      "[Fe(H2O)6]3+"
+    ],
+    "answer": "[Fe(CN)6]3-",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Stability of Complexes",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "chem_01",
+    "question": "The mass of iron converted into Fe3O4 by the action of 18 g of steam is: (Given: Molar mass of H, O and Fe are 1, 16 and 56 g mol-1 respectively). Assume iron is present in excess: [cite: 5617, 5618, 5619]",
+    "options": [
+      "2.1 g",
+      "4.2 g",
+      "21 g",
+      "42 g"
+    ],
+    "answer": "21 g [cite: 5624]",
+    "subject": "Physical Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_02",
+    "question": "What is the energy (in J atom-1) required for the following process? Li2+(g) -> Li3+(g) + e- (Take the ionization energy for the H atom in the ground state as 2.18 x 10^-18 J atom-1). [cite: 5631, 5632]",
+    "options": [
+      "8.72 x 10^-18",
+      "1.962 x 10^-18",
+      "1.962 x 10^-17",
+      "6.54 x 10^-17"
+    ],
+    "answer": "1.962 x 10^-17 [cite: 5633]",
+    "subject": "Physical Chemistry",
+    "chapter": "Structure of Atom",
+    "topic": "Bohr Model",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_03",
+    "question": "Given below are two statements: Statement (I): The correct sequence of bond lengths in the following species is: O2+ < O2 < O2- < O2(2-). Statement (II): The correct sequence of number of unpaired electrons in the following species is: O2 > O2+ > O2- > O2(2-). In the light of the above statements, choose the correct answer. [cite: 5637]",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "answer": "Both Statement I and Statement II are true [cite: 5638]",
+    "subject": "Inorganic Chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Molecular Orbital Theory",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_04",
+    "question": "Consider the following equations: (i) 2Al(s) + 6HCl(aq) -> Al2Cl6(aq) + 3H2(g) + 1200 kJ/mol (ii) H2(g) + Cl2(g) -> 2HCl(g) + 164 kJ/mol (iii) HCl(g) + aq -> HCl(aq) + 83 kJ/mol (iv) Al2Cl6(s) + aq -> Al2Cl6(aq) + 663 kJ/mol. The enthalpy of formation of anhydrous solid Al2Cl6 is: [cite: 5643]",
+    "options": [
+      "-648 kJ mol-1",
+      "-1350 kJ mol-1",
+      "-2002 kJ mol-1",
+      "-1527 kJ mol-1"
+    ],
+    "answer": "-1527 kJ mol-1 [cite: 5643]",
+    "subject": "Physical Chemistry",
+    "chapter": "Thermodynamics",
+    "topic": "Thermochemistry and Hess's Law",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_05",
+    "question": "19.5 g of fluoro acetic acid (molar mass = 78 g mol-1) is dissolved in 500 g of water at 298 K. The depression in the freezing point of water was 1 C. What is Ka of fluoro acetic acid? (For water, Kf = 1.86 K kg mol-1). Assume molarity and molality to have same values. [cite: 5650, 5651]",
+    "options": [
+      "10^-6",
+      "4 x 10^-4",
+      "3 x 10^-5",
+      "3 x 10^-3"
+    ],
+    "answer": "4 x 10^-4 [cite: 5651]",
+    "subject": "Physical Chemistry",
+    "chapter": "Solutions",
+    "topic": "Colligative Properties",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_06",
+    "question": "The solubility product constants of Ag2CrO4 and AgBr are 32x and 4y respectively at 298 K. The value of (molarity of Ag2CrO4 / molarity of AgBr) can be expressed as: [cite: 5656]",
+    "options": [
+      "2*cbrt(x)/y",
+      "2*sqrt(x/y)",
+      "sqrt(x/y)",
+      "3*sqrt(x)/sqrt(y)"
+    ],
+    "answer": "2*sqrt(x/y) [cite: 5656]",
+    "subject": "Physical Chemistry",
+    "chapter": "Equilibrium",
+    "topic": "Solubility Product",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_07",
+    "question": "An electrochemical cell is constructed using half cells in the direction of spontaneous change: Fe(OH)2(s) + 2e- -> Fe(s) + 2OH-(aq) E0 = -0.88 V; AgBr(s) + e- -> Ag(s) + Br-(aq) E0 = +0.07 V. Which of the following option is correct? [cite: 5659, 5660]",
+    "options": [
+      "Overall reaction Fe(s) + 2OH-(aq) + 2AgBr(s) -> Fe(OH)2(s) + 2Ag(s) + 2Br-(aq)",
+      "E0cell = -0.95 V",
+      "Fe is reduced in the electrochemical cell",
+      "E0cell is an extensive property"
+    ],
+    "answer": "Overall reaction Fe(s) + 2OH-(aq) + 2AgBr(s) -> Fe(OH)2(s) + 2Ag(s) + 2Br-(aq) [cite: 5660]",
+    "subject": "Physical Chemistry",
+    "chapter": "Electrochemistry",
+    "topic": "Galvanic Cells",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_08",
+    "question": "t100% is the time required for the 100% completion of the reaction while t1/2 is the time required for 50% of the reaction to be completed. Which of the following correctly represents the relation between t100% and t1/2 for zero and first order reactions respectively? [cite: 5666, 5667]",
+    "options": [
+      "t100% = (t1/2)^2 and t100% = (t1/2)^inf",
+      "t100% = 2t1/2 and t100% = (t1/2)^inf",
+      "t100% = 2t1/2 and t100% = (2t1/2)^2",
+      "t100% = (t1/2)^inf and t100% = 2t1/2"
+    ],
+    "answer": "t100% = 2t1/2 and t100% = (t1/2)^inf [cite: 5668]",
+    "subject": "Physical Chemistry",
+    "chapter": "Chemical Kinetics",
+    "topic": "Order of Reaction",
+    "difficulty": "easy",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_09",
+    "question": "Given below are two statements: Statement (I): The first ionisation enthalpy of the elements Na, Mg, Cl and Ar follows the order Na > Mg > Cl > Ar. Statement (II): Among Ca, Al, Fe and B, the third ionisation enthalpy is very high for Ca. In the light of the above statements, choose the correct answer from the options given below: [cite: 5671, 5672]",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "answer": "Statement I is false but Statement II is true [cite: 5673]",
+    "subject": "Inorganic Chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionisation Enthalpy",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_10",
+    "question": "Given below are two statements: Statement (I): Oxidising power of halogens decreases in the order F2 > Cl2 > Br2 > I2 which is the basis of the 'Layer test'. Statement (II): 'Layer test' to identify Br2 and I2 in aqueous solution involves the oxidation of bromide or iodide into Br2 or I2 respectively with Cl2, which is a type of displacement redox reaction. In the light of the above statements, choose the correct answer: [cite: 5679, 5680, 5681]",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "answer": "Both Statement I and Statement II are true [cite: 5681]",
+    "subject": "Inorganic Chemistry",
+    "chapter": "p-Block Elements",
+    "topic": "Halogen Family",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_11",
+    "question": "Which of the following sets includes all the species that will change the orange colour of K2Cr2O7 in acidic medium? [cite: 5688]",
+    "options": [
+      "Fe2+, Sn2+, I-, S2-",
+      "S2-, Fe3+, I-, C2O4(2-)",
+      "Fe2+, NO2-, SO2, Sn4+",
+      "Fe3+, SO4(2-), S2-, Sn4+"
+    ],
+    "answer": "Fe2+, Sn2+, I-, S2- [cite: 5689]",
+    "subject": "Inorganic Chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Potassium Dichromate",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_12",
+    "question": "Match List-I with List-II. List-I (Chromium(III) complexes, en = ethylenediamine): A. [Cr(CN)6]3-, B. [CrF6]3-, C. [Cr(H2O)6]3+, D. [Cr(en)3]3+. List-II (Delta_0 in cm-1): I. 15,060, II. 17,400, III. 22,300, IV. 26,600. [cite: 5696]",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-III, C-IV, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "answer": "A-IV, B-I, C-II, D-III [cite: 5697]",
+    "subject": "Inorganic Chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_13",
+    "question": "Given below are two statements: Statement (I): 1,2,3-Trihydroxypropane can be separated from water by simple distillation. Statement (II): An azeotropic mixture cannot be separated by fractional distillation. In the light of the above statements, choose the correct answer from the options given below: [cite: 5700, 5701, 5702]",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "answer": "Statement I is false but Statement II is true [cite: 5702]",
+    "subject": "Organic Chemistry",
+    "chapter": "Some Basic Principles and Techniques",
+    "topic": "Purification of Organic Compounds",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_14",
+    "question": "Given below are two statements: Statement (I): Benzyl chloride reacts faster in SN1 mechanism than ethyl chloride. Statement (II): Ethyl carbocation intermediate is less stabilized by hyperconjugation than benzyl carbocation by resonance. In the light of the above statements, choose the correct answer from the options given below: [cite: 5708, 5709, 5710]",
+    "options": [
+      "Both Statement I and Statement II are true",
+      "Both Statement I and Statement II are false",
+      "Statement I is true but Statement II is false",
+      "Statement I is false but Statement II is true"
+    ],
+    "answer": "Both Statement I and Statement II are true [cite: 5710]",
+    "subject": "Organic Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "topic": "SN1 Reaction Mechanism",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_15",
+    "question": "In IUPAC names the correct order of decreasing priority of functional groups is: [cite: 5719]",
+    "options": [
+      "-CONH2 > C=O > -CHO > -NH2 > -C≡C-",
+      "-CONH2 > -COOCH3 > -CHO > -NH2 > -OH",
+      "-CONH2 > -CHO > C=O > -NH2 > -C≡C-",
+      "-CONH2 > -CHO > -CN > -NH2 > -C≡C-"
+    ],
+    "answer": "-CONH2 > -CHO > -CN > -NH2 > -C≡C- [cite: 5721]",
+    "subject": "Organic Chemistry",
+    "chapter": "Some Basic Principles and Techniques",
+    "topic": "IUPAC Nomenclature",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_16",
+    "question": "For the given molecule X (N-phenylbenzamide derivative), the preferred site for the attack of the electrophile is: [cite: 5723]",
+    "options": [
+      "Predominantly at r",
+      "r and u",
+      "p and s",
+      "Predominantly at u"
+    ],
+    "answer": "p and s [cite: 5724]",
+    "subject": "Organic Chemistry",
+    "chapter": "Organic Compounds Containing Nitrogen",
+    "topic": "Electrophilic Aromatic Substitution",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_17",
+    "question": "Match List-I with List-II. List-I (Mixture of Compounds): A. Diethyl amine + Ethyl amine, B. Acetaldehyde + Acetone, C. Ethanol + Phenol, D. Benzoic acid + Cinnamic acid. List-II (Reagent used to distinguish): I. Bromine water, II. CHCl3 + KOH, heat, III. Neutral FeCl3, IV. Ammoniacal silver nitrate. Choose the correct answer. [cite: 5730, 5731]",
+    "options": [
+      "A-IV, B-II, C-I, D-III",
+      "A-IV, B-II, C-III, D-I",
+      "A-II, B-IV, C-I, D-III",
+      "A-II, B-IV, C-III, D-I"
+    ],
+    "answer": "A-II, B-IV, C-III, D-I [cite: 5731]",
+    "subject": "Organic Chemistry",
+    "chapter": "Practical Organic Chemistry",
+    "topic": "Qualitative Analysis",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_18",
+    "question": "Consider the three aromatic molecules (P, Q and R) containing a dimethylamino group. P has only the amino group, Q has ortho methyl groups, and R has meta/para methyl groups. The correct order regarding the reactivity of these compounds with Ph-N=N+Cl- under optimum but slightly acidic medium is: [cite: 5739, 5740]",
+    "options": [
+      "P > Q > R",
+      "R > P > Q",
+      "R > Q > P",
+      "P > R > Q"
+    ],
+    "answer": "R > P > Q [cite: 5741]",
+    "subject": "Organic Chemistry",
+    "chapter": "Organic Compounds Containing Nitrogen",
+    "topic": "Azo Coupling Reaction",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_19",
+    "question": "Match List-I with List-II. List-I (Vitamin): A. Vitamin B1, B. Vitamin B2, C. Vitamin B6, D. Vitamin C. List-II (Name): I. Pyridoxine, II. Ascorbic acid, III. Thiamine, IV. Riboflavin. Choose the correct answer from the options given below: [cite: 5747, 5748, 5749]",
+    "options": [
+      "A-II, B-I, C-III, D-IV",
+      "A-IV, B-III, C-II, D-I",
+      "A-III, B-IV, C-I, D-II",
+      "A-I, B-III, C-II, D-IV"
+    ],
+    "answer": "A-III, B-IV, C-I, D-II [cite: 5749]",
+    "subject": "Organic Chemistry",
+    "chapter": "Biomolecules",
+    "topic": "Vitamins",
+    "difficulty": "easy",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "id": "chem_20",
+    "question": "A salt with few drops of HCl gives apple green colour on flame test. The group precipitate of the salt if dissolved in acetic acid and treated with K2CrO4 gives yellow precipitate. When the sodium carbonate extract of the salt solution is heated with conc. HNO3 and ammonium molybdate, it results in a canary yellow precipitate. The cation and anion present in the salt are respectively: [cite: 5752, 5753, 5754, 5755, 5756]",
+    "options": [
+      "Ca2+ and SO4(2-)",
+      "Ba2+ and PO4(3-)",
+      "Mn2+ and PO4(3-)",
+      "Ba2+ and SO4(2-)"
+    ],
+    "answer": "Ba2+ and PO4(3-) [cite: 5756]",
+    "subject": "Inorganic Chemistry",
+    "chapter": "Salt Analysis",
+    "topic": "Qualitative Analysis",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
   }
 ]

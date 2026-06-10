@@ -1328,5 +1328,285 @@
     "topic": "Digital Electronics and Logic Gates",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
+  },
+  {
+    "question": "The dimensional formula of 1/2 eps_0 E^2 (eps_0 = permittivity of vacuum and E = electric field) is M^a L^b T^c. The value of 2a-b+c is: [cite: 4665]",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "answer": "0 [cite: 4670]",
+    "chapter": "Units and Measurements",
+    "topic": "Dimensional Analysis",
+    "difficulty": "easy",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The diameter of a wire measured by a screw gauge of least count 0.001 cm is 0.08 cm. The length measured by a scale of least count 0.1 cm is 150 cm. When a weight of 100 N is applied to the wire, the extension in length is 0.5 cm measured by a micrometer of least count 0.001 cm. The error in the measured Young's modulus is alpha x 10^9 N/m^2. The value of alpha is: [cite: 4700, 4701, 4702, 4703]",
+    "options": [
+      "1.3",
+      "1.65",
+      "0.13",
+      "0.25"
+    ],
+    "answer": "1.3 [cite: 4708]",
+    "chapter": "Units and Measurements",
+    "topic": "Error Analysis",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The velocity of a particle is given as v = -x i + 2y j - z k m/s. The magnitude of acceleration at the point (1, 2, 4) is m/s^2. [cite: 4746, 4747, 4748]",
+    "options": [
+      "sqrt(6)",
+      "9",
+      "sqrt(33)",
+      "0"
+    ],
+    "answer": "sqrt(33) [cite: 4753]",
+    "chapter": "Kinematics",
+    "topic": "Motion in Two and Three Dimensions",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The position of an object having mass 0.1 kg as a function of time t is given as r = (10t^2 i + 5t^3 j) m. At t=1 s, which of the following statements are correct? A. Linear momentum p = (2i + 1.5j) kg m/s. B. Force F = (2i + 3j) N. C. Angular momentum about origin L = 15k J.s. D. Torque about origin tau = 20k N m. [cite: 4788, 4789, 4790, 4791, 4792, 4793, 4794]",
+    "options": [
+      "A, B and C only",
+      "B, C and D only",
+      "A, C and D only",
+      "A, B and D only"
+    ],
+    "answer": "A, C and D only [cite: 4800]",
+    "chapter": "Laws of Motion",
+    "topic": "Force and Momentum",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "A planet P1 is moving around a star of mass 2M in an orbit of radius R. Another planet P2 is moving around another star of mass 4M in an orbit of radius 2R. The ratio of time periods of revolution of P2 and P1 is: [cite: 4830, 4831]",
+    "options": [
+      "1/2",
+      "2",
+      "4",
+      "1/4"
+    ],
+    "answer": "2 [cite: 4836]",
+    "chapter": "Gravitation",
+    "topic": "Kepler's Laws",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "A particle is rotating in a circular path and at any instant its motion can be described as theta = (5t^4)/40 - t^3/3. The angular acceleration of the particle after 10 seconds is rad/s^2. [cite: 4858, 4859, 4860]",
+    "options": [
+      "150",
+      "120",
+      "130",
+      "170"
+    ],
+    "answer": "150 [cite: 4865]",
+    "chapter": "Rotational Motion",
+    "topic": "Kinematics of Rotational Motion",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "A parallel plate air capacitor has a capacitance C. When it is half filled with a dielectric constant K=5 (along the thickness), the percentage increase in the capacitance is: [cite: 4895]",
+    "options": [
+      "33.34",
+      "66.67",
+      "200",
+      "400"
+    ],
+    "answer": "66.67 [cite: 4902]",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Effect of Dielectric on Capacitance",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Heat is supplied to a diatomic gas at constant pressure. Then the ratio of delta Q : delta U : delta W is: [cite: 4938]",
+    "options": [
+      "2:3:5",
+      "5:3:2",
+      "2:5:7",
+      "7:5:2"
+    ],
+    "answer": "7:5:2 [cite: 4943]",
+    "chapter": "Thermodynamics",
+    "topic": "First Law of Thermodynamics",
+    "difficulty": "easy",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Two charged conducting spheres S1 and S2 of radii 8 cm and 18 cm are connected to each other by a wire. After equilibrium is established, the ratio of electric fields on S1 and S2 spheres are E_S1 and E_S2 respectively. The value of E_S1 / E_S2 is: [cite: 4970, 4971, 4975]",
+    "options": [
+      "3/2",
+      "2/3",
+      "4/9",
+      "9/4"
+    ],
+    "answer": "9/4 [cite: 4981]",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "topic": "Conductors and Insulators",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "The equation of a plane progressive wave is given by y = 5 cos pi(200t - x/150) where x and y are in cm and t is in seconds. The velocity of the wave is m/s. [cite: 5011, 5012, 5013]",
+    "options": [
+      "120",
+      "150",
+      "200",
+      "300"
+    ],
+    "answer": "120 [cite: 5018]",
+    "chapter": "Waves",
+    "topic": "Equation of a Progressive Wave",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Two short electric dipoles A and B having dipole moments p1 and p2 respectively are placed with their axes mutually perpendicular. The resultant electric field at a point x on the axis of A is making an angle of 60 degrees with the line joining points O and x. The ratio of dipole moments p2/p1 is: [cite: 5029, 5030, 5031, 5041]",
+    "options": [
+      "sqrt(3)/2",
+      "2*sqrt(3)",
+      "1/sqrt(3)",
+      "sqrt(3)"
+    ],
+    "answer": "sqrt(3) [cite: 5043]",
+    "chapter": "Electric Charges and Fields",
+    "topic": "Electric Dipole",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "For a given circuit the time dependent input voltage is an AC sine wave with 20V peak. The output voltage is clipped symmetrically at +5V and -5V. Identify the components that are used in the circuit between X and Y. [cite: 5069, 5070, 5076, 5077]",
+    "options": [
+      "Ideal diode in series with Zener diode",
+      "Two diodes in opposite directions",
+      "Single resistor",
+      "Capacitor and inductor"
+    ],
+    "answer": "Two diodes in opposite directions [cite: 5122]",
+    "chapter": "Semiconductor Electronics",
+    "topic": "Diode as a Clipper",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "When a coil is placed in a time dependent magnetic field the power dissipated in it is P. The number of turns, area of the coil and radius of the coil wire are N, A and r respectively. For a second coil the number of turns, area of the coil and radius of the coil wire are 2N, 2A and 3r respectively. If the first coil is replaced with second coil the power dissipated in it is sqrt(2)*alpha*P. The value of alpha is: [cite: 5124, 5125, 5126, 5127]",
+    "options": [
+      "36",
+      "128*sqrt(2)",
+      "16",
+      "64"
+    ],
+    "answer": "16 [cite: 5132]",
+    "chapter": "Electromagnetic Induction",
+    "topic": "Induced EMF and Power",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Two identical long current carrying wires are bent into shapes: one with a straight wire and semicircle, one with two straight wires making a corner at the semicircle. If the magnitude of magnetic fields at the centres P and Q of a semicircular arc are B1 and B2 respectively, then the ratio B1/B2 is: [cite: 5170, 5171]",
+    "options": [
+      "(2+pi)/(1+pi)",
+      "(1+pi)/(1-pi)",
+      "(1-pi)/(1+pi)",
+      "(1+pi)/(2-pi)"
+    ],
+    "answer": "(2+pi)/(1+pi) [cite: 5188]",
+    "chapter": "Moving Charges and Magnetism",
+    "topic": "Magnetic Field due to Current Carrying Wire",
+    "difficulty": "hard",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "For a thin symmetric prism made of glass (refractive index 1.5), the ratio of incident angle and minimum deviation will be: [cite: 5223]",
+    "options": [
+      "3:4",
+      "3:2",
+      "2:1",
+      "1:2"
+    ],
+    "answer": "3:2 [cite: 5229]",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction through a Prism",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Refer the figure. mu_1=1 and mu_2=1.54 are refractive indices of air and lens material respectively. A convex spherical surface has radius 20 cm. An object of height 2 cm is placed at 40 cm. The height of image will be cm. [cite: 5255, 5256, 5258, 5259, 5260, 5264, 5266]",
+    "options": [
+      "1",
+      "0.5",
+      "1.2",
+      "0.25"
+    ],
+    "answer": "0.5 [cite: 5271]",
+    "chapter": "Ray Optics and Optical Instruments",
+    "topic": "Refraction at Spherical Surfaces",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "For a certain metal, when monochromatic light of wavelength lambda is incident, the stopping potential for photoelectrons is 3V_0. When the same metal is illuminated by light of wavelength 2lambda, the stopping potential becomes V_0. The threshold wavelength for photoelectric emission for the given metal is alpha*lambda. The value of alpha is: [cite: 5309, 5310, 5311]",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "2 [cite: 5316]",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Photoelectric Effect",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "An electromagnetic wave travelling in x-direction is described by the field equation E_y = 300 sin omega(t-x/c). If the electron is restricted to move in y-direction only with speed 1.5*10^6 m/s then the ratio of maximum electric and magnetic forces acting on the electron is: [cite: 5344, 5345, 5346, 5347]",
+    "options": [
+      "200",
+      "150",
+      "400",
+      "300"
+    ],
+    "answer": "200 [cite: 5352]",
+    "chapter": "Electromagnetic Waves",
+    "topic": "Nature of Electromagnetic Waves",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "Angular momentum of an electron in a hydrogen atom is 3h/pi. Then the energy of the electron is eV. [cite: 5379, 5380, 5381]",
+    "options": [
+      "-1.51",
+      "-0.85",
+      "-0.38",
+      "-0.28"
+    ],
+    "answer": "-0.38 [cite: 5387]",
+    "chapter": "Atoms",
+    "topic": "Bohr Model of Hydrogen Atom",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
+  },
+  {
+    "question": "A liquid drop of diameter 2 mm breaks into 512 droplets. The change in surface energy is alpha * 10^-6 J (Take surface tension of liquid = 0.08 N/m). The value of alpha is: [cite: 5412, 5413]",
+    "options": [
+      "10",
+      "7",
+      "8",
+      "11"
+    ],
+    "answer": "8 [cite: 5418]",
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Surface Tension and Surface Energy",
+    "difficulty": "medium",
+    "type": "JEE Main April 2 Shift 1"
   }
 ]
