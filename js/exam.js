@@ -67,10 +67,16 @@ async function loadQuestions() {
         allQs = allQs.concat(items);
     }
 
-    // Filter by exam type (NEET or JEE)
+    // Filter by exam type (NEET or JEE) using word-boundary regex for robust detection
     allQs = allQs.filter(q => {
-        const qType = (q.type || '').toUpperCase();
-        return qType.includes(config.exam.toUpperCase());
+        const qTypeRaw = (q.type || '');
+        try {
+            const escaped = config.exam.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const re = new RegExp('\\b' + escaped + '\\b', 'i');
+            return re.test(qTypeRaw);
+        } catch (e) {
+            return (qTypeRaw || '').toUpperCase().includes(config.exam.toUpperCase());
+        }
     });
 
     if (config.difficulty && config.difficulty !== 'All') {
