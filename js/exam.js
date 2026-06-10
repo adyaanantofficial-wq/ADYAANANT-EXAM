@@ -67,6 +67,12 @@ async function loadQuestions() {
         allQs = allQs.concat(items);
     }
 
+    // Filter by exam type (NEET or JEE)
+    allQs = allQs.filter(q => {
+        const qType = (q.type || '').toUpperCase();
+        return qType.includes(config.exam.toUpperCase());
+    });
+
     if (config.difficulty && config.difficulty !== 'All') {
         allQs = allQs.filter(q => (q.difficulty || '').toLowerCase() === config.difficulty.toLowerCase());
     }

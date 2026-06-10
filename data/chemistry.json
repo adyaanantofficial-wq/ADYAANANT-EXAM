@@ -1518,5 +1518,1349 @@
     "topic": "Diazonium Salts",
     "difficulty": "medium",
     "type": "PYQ NEET 2021"
+  },
+  {
+    "id": "ic001",
+    "question": "The law of triad is applicable to a group of",
+    "options": [
+      "Cl, Br, I",
+      "C, N, O",
+      "Na, K, Rb",
+      "H, O, N"
+    ],
+    "answer": "Cl, Br, I",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Periodic Classification",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic002",
+    "question": "Atomic radii of alkali metals follow the order:",
+    "options": [
+      "Li > Na > K > Cs",
+      "K > Cs > Li > Na",
+      "Na > K > Cs > Li",
+      "Cs > K > Na > Li"
+    ],
+    "answer": "Cs > K > Na > Li",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Atomic Radii",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic003",
+    "question": "In the increasing order of their sizes, arrange the following ions N3-, Na+, F-, Mg2+ and O2-",
+    "options": [
+      "Mg2+ > Na+ > F- > O2- < N3-",
+      "N3- < F- > O2- > Na+ > Mg2+",
+      "Mg2+ < Na+ < F- < O2- < N3-",
+      "Mg2+ < Na+ < F- < N3- < O2-"
+    ],
+    "answer": "Mg2+ < Na+ < F- < O2- < N3-",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionic Radii",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic004",
+    "question": "The correct increasing order of electronegativity for Sn, Sn2+ and Sn4+ species is:",
+    "options": [
+      "Sn < Sn2+ < Sn4+",
+      "Sn4+ < Sn2+ < Sn",
+      "Sn = Sn2+ = Sn4+",
+      "Sn < Sn2+ = Sn4+"
+    ],
+    "answer": "Sn < Sn2+ < Sn4+",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electronegativity",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic005",
+    "question": "Find the correct order of electron gain enthalpy of the given elements.",
+    "options": [
+      "O > B > C > N",
+      "O > C > N > B",
+      "O > C > B > N",
+      "O > N > C > B"
+    ],
+    "answer": "O > C > B > N",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electron Gain Enthalpy",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic006",
+    "question": "A -> A- + e (E1) and A+ -> A2+ + e (E2). The energy required to pull out the two electrons are E1 and E2 respectively. The correct relationship between two energy would be :",
+    "options": [
+      "E1 < E2",
+      "E1 > E2",
+      "E1 = E2",
+      "E1 != E2"
+    ],
+    "answer": "E1 < E2",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionization Energy",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic007",
+    "question": "The correct decreasing order of electropositive character among the following elements is",
+    "options": [
+      "Fe > Sc > Rb > Br > Te > F > Ca",
+      "Ca > Rb > Sc > Fe > Te > F > Br",
+      "Rb > Ca > Sc > Fe > Br > Te > F",
+      "Rb > Ca > Sc > Fe > Te > Br > F"
+    ],
+    "answer": "Rb > Ca > Sc > Fe > Te > Br > F",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Electropositive Character",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic008",
+    "question": "Which of the following element shows maximum valency?",
+    "options": [
+      "Carbon",
+      "Barium",
+      "Nitrogen",
+      "Sulphur"
+    ],
+    "answer": "Sulphur",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Valency",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic009",
+    "question": "Which one of the following relations is correct with respect to first (I) and second (II) ionization potentials of sodium and Magnesium?",
+    "options": [
+      "I_Na > I_Mg",
+      "II_Mg > II_Na",
+      "I_Mg > II_Na",
+      "II_Na > II_Mg"
+    ],
+    "answer": "II_Na > II_Mg",
+    "subject": "inorganic chemistry",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "topic": "Ionization Energy",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic010",
+    "question": "What are the formal charges on the carbon and oxygen atoms and the formal charge difference, \u0394 FC, in the Lewis structure of carbon dioxide?",
+    "options": [
+      "+4, -2 and +6",
+      "+4, +4 and 0",
+      "+4, +2 and +2",
+      "0, 0 and 0"
+    ],
+    "answer": "0, 0 and 0",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Formal Charge",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic011",
+    "question": "If a molecule MX3 has zero dipole moment, the sigma bonding orbitals used by M (atomic number < 21) are",
+    "options": [
+      "Pure p",
+      "sp hybridised",
+      "sp2 hybridised",
+      "sp3 hybridised"
+    ],
+    "answer": "sp2 hybridised",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hybridisation",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic012",
+    "question": "Bond angles of NH3, PH3, AsH3 and SbH3 are in the order",
+    "options": [
+      "PH3 > AsH3 > SbH3 > NH3",
+      "SbH3 > AsH3 > PH3 > NH3",
+      "SbH3 > AsH3 > NH3 > PH3",
+      "NH3 > PH3 > AsH3 > SbH3"
+    ],
+    "answer": "NH3 > PH3 > AsH3 > SbH3",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Bond Angles",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic013",
+    "question": "The diamagnetic species is",
+    "options": [
+      "NO",
+      "NO2",
+      "O2",
+      "CO2"
+    ],
+    "answer": "CO2",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Magnetic Properties",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic014",
+    "question": "Arrange the following in increasing order of melting point: Li2O, LiF, Li3N",
+    "options": [
+      "Li3N < Li2O < LiF",
+      "Li2O < Li3N < LiF",
+      "LiF < Li2O < Li3N",
+      "Li3N < LiF < Li2O"
+    ],
+    "answer": "Li3N < Li2O < LiF",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Melting Point and Fajan's Rule",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic015",
+    "question": "Discuss and compare the dipole moments as well as bond angles in NCl3 and PCl3.",
+    "options": [
+      "Bond angle NCl3 > Bond angle PCl3",
+      "Bond angle NCl3 < Bond angle PCl3",
+      "Bond angle NCl3 = Bond angle PCl3",
+      "None of these"
+    ],
+    "answer": "Bond angle NCl3 > Bond angle PCl3",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Dipole Moments & Bond Angles",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic016",
+    "question": "Which one among the following does not have the hydrogen bond?",
+    "options": [
+      "Phenol",
+      "Water",
+      "Liquid NH3",
+      "Liquid HCl"
+    ],
+    "answer": "Liquid HCl",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hydrogen Bonding",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic017",
+    "question": "The hydrogen bond is strongest in",
+    "options": [
+      "O-H.....F",
+      "O-H......H",
+      "F-H.....F",
+      "O-H......C"
+    ],
+    "answer": "F-H.....F",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hydrogen Bonding",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic018",
+    "question": "Identify the correct order of boiling points of the following compounds: (a) CH3CH2CH2CH2OH (b) CH3CH2CH2CHO (c) CH3CH2CH2COOH",
+    "options": [
+      "a > b > c",
+      "c > a > b",
+      "a > c > b",
+      "c > b > a"
+    ],
+    "answer": "c > a > b",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Boiling Points & H-Bonding",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic019",
+    "question": "Boiling point of H2O is higher than that of H2S, because H2O",
+    "options": [
+      "is capable of forming H - bonds",
+      "has higher molecular mass",
+      "has relatively strong covalent bonds",
+      "is capable of forming co-ordinate bonds with H+ ions"
+    ],
+    "answer": "is capable of forming H - bonds",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Hydrogen Bonding",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic020",
+    "question": "The experimental value of the dipole moment of HCl is 1.03D. The length of the HCl bond is 1.275A. The percentage of ionic character in HCl is:",
+    "options": [
+      "43%",
+      "21%",
+      "17%",
+      "7%"
+    ],
+    "answer": "17%",
+    "subject": "inorganic chemistry",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "topic": "Dipole Moment & Ionic Character",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic021",
+    "question": "Very pure hydrogen gas is prepared by the action of pure dilute H2SO4 on",
+    "options": [
+      "water",
+      "sodium hydride",
+      "magnesium",
+      "aluminium"
+    ],
+    "answer": "magnesium",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Preparation of Hydrogen",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic022",
+    "question": "Hydrogen can be prepared by the action of dil. H2SO4 on",
+    "options": [
+      "Cu",
+      "Fe",
+      "Pb",
+      "Hg"
+    ],
+    "answer": "Fe",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Preparation of Hydrogen",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic023",
+    "question": "Which of the following statements is not true for hydrogen:",
+    "options": [
+      "It exists as a diatomic molecule.",
+      "It has one electron in the outermost shell.",
+      "It can lose an electron to form a cation which can freely exist",
+      "It cannot form ionic compounds."
+    ],
+    "answer": "It can lose an electron to form a cation which can freely exist",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Properties of Hydrogen",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic024",
+    "question": "Which of the following atomic and physical properties of hydrogen is false?",
+    "options": [
+      "Hydrogen > Deuterium > Tritium; (melting point /K)",
+      "Hydrogen < Deuterium < Tritium; (boiling point /K)",
+      "Hydrogen < Deuterium < Tritium; (density/ gL-1)",
+      "Hydrogen > Deuterium > Tritium; (% relative abundance)"
+    ],
+    "answer": "Hydrogen > Deuterium > Tritium; (melting point /K)",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Isotopes of Hydrogen",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic025",
+    "question": "Dalda is prepared from oils by",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "Hydrolysis",
+      "Distillation"
+    ],
+    "answer": "Reduction",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Applications of Hydrogen",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic026",
+    "question": "When electric current is passed through an ionic hydride in the molten state,",
+    "options": [
+      "Hydrogen is liberated at the cathode",
+      "Hydrogen is liberated at the anode",
+      "Hydride ion migrates towards cathode",
+      "No reaction takes place"
+    ],
+    "answer": "Hydrogen is liberated at the anode",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hydrides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic027",
+    "question": "A commercial sample of hydrogen peroxide marked as 100 volume H2O2 it means that-",
+    "options": [
+      "1ml of H2O2 will give 100ml O2 at STP",
+      "1 L of H2O2 will give 100ml O2 at STP",
+      "1 L of H2O2 will give 22.4 L at STP",
+      "1ml of H2O2 will give 1 mole of O2 at STP"
+    ],
+    "answer": "1ml of H2O2 will give 100ml O2 at STP",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hydrogen Peroxide",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic028",
+    "question": "The reason of bleaching properties of H2O2 is",
+    "options": [
+      "Unstable nature",
+      "Acidic nature",
+      "Reducing nature",
+      "Oxidising nature"
+    ],
+    "answer": "Oxidising nature",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hydrogen Peroxide Properties",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic029",
+    "question": "Permanent hardness can be removed by adding",
+    "options": [
+      "Cl2",
+      "Na2CO3",
+      "Ca(OCl)Cl",
+      "K2CO3"
+    ],
+    "answer": "Na2CO3",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hardness of Water",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic030",
+    "question": "Which of the following ions will cause hardness of sample water?",
+    "options": [
+      "Na+",
+      "K+",
+      "Ca2+",
+      "Li+"
+    ],
+    "answer": "Ca2+",
+    "subject": "inorganic chemistry",
+    "chapter": "Hydrogen",
+    "topic": "Hardness of Water",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic031",
+    "question": "Alakali metals (IA) are generally soluble with liquid ammonia (Liq. NH3) and provides blue colour solution and shows paramagnetic behavior, so what could be the reason?",
+    "options": [
+      "[M(NH3)x]+ and [e(NH3)y]-",
+      "[e(NH3)y]-",
+      "[e(NH3)y]- and [M(NH3)x]+",
+      "[M(NH3)x]+"
+    ],
+    "answer": "[e(NH3)y]-",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Chemical Properties",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic032",
+    "question": "Which of the following elements will form alkaline oxide?",
+    "options": [
+      "K",
+      "P",
+      "S",
+      "None"
+    ],
+    "answer": "K",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Oxides",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic033",
+    "question": "A solid is a compound of group 1 element and it gives a bright red colour in the flame test. The solid is",
+    "options": [
+      "LiBr",
+      "CsCl",
+      "KCl",
+      "NaCl"
+    ],
+    "answer": "LiBr",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Flame Test",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic034",
+    "question": "On heating a mixture of one mole each Li2CO3, MgCO3 and Na2CO3. the volume of CO2 evolved under STP condition will be",
+    "options": [
+      "67.2 L",
+      "33.6 L",
+      "44.8 L",
+      "22.4 L"
+    ],
+    "answer": "44.8 L",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Thermal Stability",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic035",
+    "question": "A compound X has the following characteristics: a. It is used as a disinfectant. b. It is used to prepare bleaching powder. c. Its suspension in water is called milk of lime. Then compound X is",
+    "options": [
+      "Ca(OH)2",
+      "CaO",
+      "CaCO3",
+      "CaSO4.2H2O"
+    ],
+    "answer": "Ca(OH)2",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Compounds of Calcium",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic036",
+    "question": "Which of the following statements is true about Ca(OH)2?",
+    "options": [
+      "It is used in the preparation of bleaching powder.",
+      "It is a light blue solid.",
+      "It does not possess disinfectant property.",
+      "It is used in the manufacture of cement."
+    ],
+    "answer": "It is used in the preparation of bleaching powder.",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Compounds of Calcium",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic037",
+    "question": "The metal showing a resemblance with lithium is:",
+    "options": [
+      "Be",
+      "Mg",
+      "Al",
+      "Na"
+    ],
+    "answer": "Mg",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Diagonal Relationship",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic038",
+    "question": "Which of the following set contains pair of elements that do not belong to same group but show chemical resemblance?",
+    "options": [
+      "Hf, Zr",
+      "K, Rb",
+      "Be, Al",
+      "B, Al"
+    ],
+    "answer": "Be, Al",
+    "subject": "inorganic chemistry",
+    "chapter": "s Block Elements",
+    "topic": "Diagonal Relationship",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic039",
+    "question": "On addition of mineral acid to an aqueous solution of borax, the compound that is formed is:",
+    "options": [
+      "Pyroboric acid",
+      "Boron hydride",
+      "Meta boric acid",
+      "Orthoboric acid"
+    ],
+    "answer": "Orthoboric acid",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Boron Compounds",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic040",
+    "question": "Which of the following lewis acidity order of BX3 is correct?",
+    "options": [
+      "BF3 < BCl3 < BBr3 < BI3",
+      "BF3 > BCl3 > BBr3 > BI3",
+      "BCl3 < BBr3 < BI3 < BF3",
+      "BF3 < BI3 < BBr3 < BCl3"
+    ],
+    "answer": "BF3 < BCl3 < BBr3 < BI3",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Lewis Acidity",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic041",
+    "question": "Hydrated aluminium chloride is ionic compound and soluble in water giving",
+    "options": [
+      "Al3+ and Cl- ions.",
+      "[Al(H2O)6]3+ and Cl- ions.",
+      "[Al(OH)6]3- and Cl-",
+      "None of these."
+    ],
+    "answer": "[Al(H2O)6]3+ and Cl- ions.",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Aluminium Compounds",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic042",
+    "question": "Aluminium (III) chloride forms a dimer because aluminium:",
+    "options": [
+      "Cannot form a trimer.",
+      "Has high ionisation energy.",
+      "Belongs to third group.",
+      "Can have higher coordination number."
+    ],
+    "answer": "Can have higher coordination number.",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Aluminium Halides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic043",
+    "question": "Which of the following is the correct order of stability of allotropes of carbon?",
+    "options": [
+      "Diamond < graphite < fullerene",
+      "Fullerene < graphite < diamond",
+      "Graphite < fullerene < diamond",
+      "Fullerene < diamond < graphite"
+    ],
+    "answer": "Fullerene < diamond < graphite",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Allotropes of Carbon",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic044",
+    "question": "Which of the following halogen oxides is used for the estimation of carbon monoxide in automobile exhaust gases?",
+    "options": [
+      "Cl2O7",
+      "I2O5",
+      "ClO2",
+      "BrO3"
+    ],
+    "answer": "I2O5",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Carbon Monoxide",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic045",
+    "question": "The number and type of bonds between two carbon atoms in CaC2 are",
+    "options": [
+      "One sigma and one pi bond",
+      "One sigma and one and half pi bond",
+      "One sigma bond",
+      "One sigma and two pi bond"
+    ],
+    "answer": "One sigma and two pi bond",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 13 & 14)",
+    "topic": "Carbides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic046",
+    "question": "Metal occur in the native from because of their",
+    "options": [
+      "High electronegativity",
+      "High reactivity",
+      "Low reactivity",
+      "Low density"
+    ],
+    "answer": "Low reactivity",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Occurrence of Metals",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic047",
+    "question": "Which one of the following ores is best concentrated by froth-floatation method?",
+    "options": [
+      "Magnetite",
+      "Cassiterite",
+      "Galena",
+      "Malachite"
+    ],
+    "answer": "Galena",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Concentration of Ores",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic048",
+    "question": "Autoreduction process is used in the extraction of",
+    "options": [
+      "Cu and Hg",
+      "Hg and Zn",
+      "Cu and Al",
+      "Fe and Pb"
+    ],
+    "answer": "Cu and Hg",
+    "subject": "inorganic chemistry",
+    "chapter": "General Principles and Processes of Isolation of Metals",
+    "topic": "Extraction of Metals",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic049",
+    "question": "The reddish brown coloured gas formed when nitric oxide is oxidised by air is",
+    "options": [
+      "N2O5",
+      "N2O4",
+      "NO2",
+      "N2O3"
+    ],
+    "answer": "NO2",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Nitrogen Oxides",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic050",
+    "question": "Anomalous behavior of nitrogen is due to",
+    "options": [
+      "small size and high electronegativity",
+      "non-availability of d-orbitals in valency shells",
+      "ease of multiple bond formation",
+      "all of the above"
+    ],
+    "answer": "all of the above",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Group 15 Elements",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic051",
+    "question": "Structure of NH3 is:",
+    "options": [
+      "Trigonal",
+      "Tetrahedral",
+      "Pyramidal",
+      "Trigonal bipyramidal"
+    ],
+    "answer": "Pyramidal",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Group 15 Elements",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic052",
+    "question": "NH3 is basic while PH3 is",
+    "options": [
+      "acidic",
+      "neutral",
+      "amphoteric",
+      "basic"
+    ],
+    "answer": "basic",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Hydrides of Group 15",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic053",
+    "question": "Which is correct option for sulphur dioxide (SO2) molecule",
+    "options": [
+      "Polar molecule with polar bonds.",
+      "Polar molecule with non-polar bonds.",
+      "Non-polar molecule with polar bonds.",
+      "Non-polar molecule with non-polar bonds."
+    ],
+    "answer": "Polar molecule with polar bonds.",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Sulphur Compounds",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic054",
+    "question": "Which of the following oxoacid of sulphur has - O-O- linkage?",
+    "options": [
+      "H2SO4, sulphuric acid",
+      "H2S2O8, peroxodisulphuric acid",
+      "H2S2O7, pyrosulphuric acid",
+      "H2SO3, sulphurous acid"
+    ],
+    "answer": "H2S2O8, peroxodisulphuric acid",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Oxoacids of Sulphur",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic055",
+    "question": "Sodium thiosulphate is prepared by",
+    "options": [
+      "reducing Na2SO4 solution with H2S",
+      "boiling Na2SO3 solution with S in alkaline medium",
+      "neutralising H2S2O3 solution with NaOH",
+      "boiling Na2SO3 solution with S in acidic medium"
+    ],
+    "answer": "boiling Na2SO3 solution with S in alkaline medium",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Sulphur Compounds",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic056",
+    "question": "Which of the following can attack glass?",
+    "options": [
+      "H2SO4",
+      "HI",
+      "HCl",
+      "HF"
+    ],
+    "answer": "HF",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Hydrogen Halides",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic057",
+    "question": "Fluorine has low electron affinity than chlorine because of",
+    "options": [
+      "Bigger radius of fluorine, less density",
+      "Smaller radius of fluorine, high density",
+      "Smaller radius of chlorine, high density",
+      "Smaller radius of chlorine, less density"
+    ],
+    "answer": "Smaller radius of fluorine, high density",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Halogens",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic058",
+    "question": "Bleaching powder produces chloroform on reaction with",
+    "options": [
+      "Phenol",
+      "Nitric acid",
+      "Amine",
+      "Acetone"
+    ],
+    "answer": "Acetone",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Halogen Compounds",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic059",
+    "question": "Which halogen shows the maximum oxidation state in forming interhalogen compound?",
+    "options": [
+      "F",
+      "Br",
+      "Cl",
+      "I"
+    ],
+    "answer": "I",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Interhalogen Compounds",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic060",
+    "question": "Which inert gas shows abnormal behaviour on liquefaction?",
+    "options": [
+      "Xe",
+      "He",
+      "Ar",
+      "Kr"
+    ],
+    "answer": "He",
+    "subject": "inorganic chemistry",
+    "chapter": "p Block Elements (Group 15, 16, 17 & 18)",
+    "topic": "Noble Gases",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic061",
+    "question": "The transition elements exhibit variable oxidation states because",
+    "options": [
+      "they form large number of complexes",
+      "(n-1)d and ns electrons are of nearly the same energy level",
+      "they have high density",
+      "they have high melting and boiling points"
+    ],
+    "answer": "(n-1)d and ns electrons are of nearly the same energy level",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "General Properties",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic062",
+    "question": "There is no d-d transition in Cu+ but Cu2O is coloured due to",
+    "options": [
+      "The presence of unpaired electron",
+      "The presence of coloured O2- ion",
+      "Charge transfer from oxygen to metal",
+      "Charge transfer from metal to oxygen"
+    ],
+    "answer": "Charge transfer from oxygen to metal",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Color of Ions",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic063",
+    "question": "Which one of the following is not coloured?",
+    "options": [
+      "Cu2+",
+      "Cu+",
+      "Ni2+",
+      "Fe3+"
+    ],
+    "answer": "Cu+",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Color of Ions",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic064",
+    "question": "Which of the following characteristics of the transition metals is associated with their catalytic activity?",
+    "options": [
+      "Color of hydrated ions",
+      "Diamagnetic behavior",
+      "Paramagnetic behavior",
+      "Variable oxidation"
+    ],
+    "answer": "Variable oxidation",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Catalytic Properties",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic065",
+    "question": "The reaction of K2Cr2O7 with NaCl and concentrated H2SO4 gives",
+    "options": [
+      "CrCl3",
+      "CrOCl2",
+      "CrO2Cl2",
+      "Cr2O3"
+    ],
+    "answer": "CrO2Cl2",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Compounds of Transition Metals",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic066",
+    "question": "Potassium permanganate works as oxidising agent both in acidic and basic medium. In both state, product obtained by KMnO4 is respectively",
+    "options": [
+      "MnO2 and Mn3+",
+      "Mn3+ and Mn3+",
+      "Mn2+ and Mn3+",
+      "Mn2+ and MnO2"
+    ],
+    "answer": "Mn2+ and MnO2",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic067",
+    "question": "Potassium permanganate on heating at 513 K gives a product which is:",
+    "options": [
+      "paramagnetic and colourless",
+      "diamagnetic and colourless",
+      "diamagnetic and green",
+      "paramagnetic and green"
+    ],
+    "answer": "paramagnetic and green",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Potassium Permanganate",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic068",
+    "question": "The statement about cerium which is not true:",
+    "options": [
+      "The common oxidation states of cerium are +3 and +4.",
+      "The +3 oxidation state of cerium is more stable than +4 oxidation state.",
+      "Cerium (III) acts as an oxidising agent.",
+      "The +4 oxidation state of cerium is known in solution."
+    ],
+    "answer": "Cerium (III) acts as an oxidising agent.",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Lanthanides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic069",
+    "question": "The lanthanide contraction is responsible for the fact that:",
+    "options": [
+      "Zr and Y have about the same radius",
+      "Zr and Nb have similar oxidation state",
+      "Zr and Zn have the same oxidation state",
+      "Zr and Hf have about the same radius"
+    ],
+    "answer": "Zr and Hf have about the same radius",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Lanthanide Contraction",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic070",
+    "question": "In which of the following lanthanides, oxidation state +2 is the most stable?",
+    "options": [
+      "Ce",
+      "Eu",
+      "Tb",
+      "Dy"
+    ],
+    "answer": "Eu",
+    "subject": "inorganic chemistry",
+    "chapter": "d and f Block Elements",
+    "topic": "Lanthanides",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic071",
+    "question": "[EDTA]4- is a",
+    "options": [
+      "monodentate ligand.",
+      "bidentate ligand.",
+      "quadridentate ligand.",
+      "hexadentate ligand."
+    ],
+    "answer": "hexadentate ligand.",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ligands",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic072",
+    "question": "Which of the following represents a chelating ligand",
+    "options": [
+      "H2O",
+      "OH-",
+      "DMG",
+      "Cl-"
+    ],
+    "answer": "DMG",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Ligands",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic073",
+    "question": "The IUPAC name of the complex [Pt(NH3)3Br(NO2)Cl]Cl is",
+    "options": [
+      "Triamminechlorobromonitroplatinum (IV) chloride.",
+      "Triamminebromonitrochloroplatinum (IV) chloride",
+      "Triamminebromidochloridonitroplatinum (IV) chloride",
+      "Triamminenitrochlorobromoplatinum (IV) chloride"
+    ],
+    "answer": "Triamminebromidochloridonitroplatinum (IV) chloride",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "IUPAC Nomenclature",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic074",
+    "question": "The compounds [Co(SO4)(NH3)5]Br and [Co(SO4)(NH3)5]Cl represent",
+    "options": [
+      "linkage isomerism",
+      "ionisation isomerism",
+      "coordination isomerism",
+      "no isomerism"
+    ],
+    "answer": "no isomerism",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Isomerism",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic075",
+    "question": "Find the magnetic moment of [NiCl4]2-",
+    "options": [
+      "1.8 BM",
+      "5.86 BM",
+      "2.82 BM",
+      "3.82 BM"
+    ],
+    "answer": "2.82 BM",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Magnetic Properties",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic076",
+    "question": "As per the postulates of Werner's theory for coordination compounds, which of the following is correct?",
+    "options": [
+      "Primary valencies are ionisable.",
+      "Secondary valencies are ionisable.",
+      "Only primary valencies are non-ionisable.",
+      "Primary and secondary valencies are non-ionisable."
+    ],
+    "answer": "Primary valencies are ionisable.",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic077",
+    "question": "What will be the primary valency of cobalt in the complex [Co(NH3)5Cl]Cl2, according to Werner's theory?",
+    "options": [
+      "5",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "3",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Werner's Theory",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic078",
+    "question": "Which of the following spectrochemical series is TRUE?",
+    "options": [
+      "SCN- < NH3 < F- < en < CO",
+      "SCN- < F- < NH3 < en < CO",
+      "SCN- < F- < en < NH3 < CO",
+      "SCN- < F- < en < CO < NH3"
+    ],
+    "answer": "SCN- < F- < NH3 < en < CO",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Spectrochemical Series",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic079",
+    "question": "What type of hybridization is involved in [Fe(CN)6]3-?",
+    "options": [
+      "d2sp3",
+      "dsp2",
+      "sp3d2",
+      "dsp3"
+    ],
+    "answer": "d2sp3",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Hybridization",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic080",
+    "question": "Both [Ni(CO)4] and [Ni(CN)4]2- are diamagnetic. The types of hybridisation of Ni in these complexes are ____ and ____ respectively.",
+    "options": [
+      "sp3, sp3",
+      "sp3, dsp2",
+      "dsp2, sp3",
+      "dsp2, dsp2"
+    ],
+    "answer": "sp3, dsp2",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Hybridization",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic081",
+    "question": "For a d4 metal ion in an octahedral field, the correct electronic configuration is",
+    "options": [
+      "t2g3 eg1 when \u0394_o < P",
+      "t2g3 eg1 when \u0394_o > P",
+      "t2g4 eg0 when \u0394_o < P",
+      "eg2 t2g2 when \u0394_o < P"
+    ],
+    "answer": "t2g3 eg1 when \u0394_o < P",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "difficulty": "hard",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic082",
+    "question": "Crystal field splitting energies for octahedral (\u0394_o) and tetrahedral (\u0394_t) geometries caused by the same ligands are related through the expression",
+    "options": [
+      "\u0394_o = \u0394_t",
+      "4\u0394_o = 9\u0394_t",
+      "9\u0394_o = 4\u0394_t",
+      "\u0394_o = 2\u0394_t"
+    ],
+    "answer": "4\u0394_o = 9\u0394_t",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Crystal Field Theory",
+    "difficulty": "easy",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic083",
+    "question": "Which of the following is NOT true for metal carbonyls?",
+    "options": [
+      "The oxidation state of the metal in the carbonyls can be zero",
+      "M-C \u03c0 bond is formed by back-bonding from metal to carbon",
+      "Metal carbonyls have single bond between metal and carbon",
+      "d\u03c0 - p\u03c0 overlap is observed in metal carbonyls."
+    ],
+    "answer": "Metal carbonyls have single bond between metal and carbon",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Metal Carbonyls",
+    "difficulty": "medium",
+    "type": "JEE mains module"
+  },
+  {
+    "id": "ic084",
+    "question": "Transition metals form the most stable complex ions as",
+    "options": [
+      "they exhibit multiple oxidation states",
+      "they have large charge to radius ratio",
+      "vacant orbitals to accommodate electrons are present",
+      "all of these"
+    ],
+    "answer": "all of these",
+    "subject": "inorganic chemistry",
+    "chapter": "Coordination Compounds",
+    "topic": "Complex Formation",
+    "difficulty": "easy",
+    "type": "JEE mains module"
   }
 ]
